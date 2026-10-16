@@ -1,0 +1,578 @@
+{
+  "id": "r7-cangqing-realms",
+  "title": "苍青界 · 大梁与邻境",
+  "subtitle": "大梁诸域 · 关山与城邑",
+  "width": 2000,
+  "height": 1600,
+  "northKnown": true,
+  "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 本幅以大梁旧称组织地理，不表现各时期政权变化。区域级粗定位不等于州郡疆界。",
+  "symbolSizes": {
+    "capital": 165,
+    "city": 135,
+    "fort": 100,
+    "monastery": 95
+  },
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          180,
+          550
+        ],
+        [
+          225,
+          625
+        ],
+        [
+          195,
+          715
+        ],
+        [
+          245,
+          805
+        ],
+        [
+          205,
+          895
+        ]
+      ],
+      "height": 57,
+      "width": 110,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          930,
+          665
+        ],
+        [
+          1000,
+          695
+        ],
+        [
+          1065,
+          665
+        ],
+        [
+          1120,
+          710
+        ]
+      ],
+      "height": 38,
+      "width": 65,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1020,
+          1005
+        ],
+        [
+          1135,
+          1030
+        ],
+        [
+          1240,
+          1000
+        ],
+        [
+          1330,
+          1055
+        ]
+      ],
+      "height": 57,
+      "width": 110,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1030,
+          1110
+        ],
+        [
+          1140,
+          1090
+        ],
+        [
+          1250,
+          1130
+        ],
+        [
+          1350,
+          1090
+        ]
+      ],
+      "height": 48,
+      "width": 95,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1505,
+          1040
+        ],
+        [
+          1630,
+          995
+        ],
+        [
+          1740,
+          1045
+        ],
+        [
+          1870,
+          1005
+        ]
+      ],
+      "height": 59,
+      "width": 115,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1500,
+          1130
+        ],
+        [
+          1610,
+          1100
+        ],
+        [
+          1750,
+          1140
+        ],
+        [
+          1870,
+          1095
+        ]
+      ],
+      "height": 46,
+      "width": 95,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1210,
+          435
+        ],
+        [
+          1280,
+          450
+        ],
+        [
+          1340,
+          425
+        ]
+      ],
+      "height": 38,
+      "width": 70,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 1050,
+      "y": 650,
+      "rx": 100,
+      "ry": 90,
+      "density": 0.36,
+      "type": "grass"
+    },
+    {
+      "x": 790,
+      "y": 650,
+      "rx": 180,
+      "ry": 120,
+      "density": 0.36,
+      "type": "grass"
+    },
+    {
+      "x": 760,
+      "y": 880,
+      "rx": 190,
+      "ry": 100,
+      "density": 0.38,
+      "type": "grass"
+    },
+    {
+      "x": 1370,
+      "y": 680,
+      "rx": 115,
+      "ry": 105,
+      "density": 0.27,
+      "type": "grass"
+    },
+    {
+      "x": 1640,
+      "y": 690,
+      "rx": 180,
+      "ry": 110,
+      "density": 0.3,
+      "type": "grass"
+    },
+    {
+      "x": 1230,
+      "y": 1050,
+      "rx": 135,
+      "ry": 120,
+      "density": 0.52,
+      "type": "deciduous"
+    },
+    {
+      "x": 1710,
+      "y": 1065,
+      "rx": 170,
+      "ry": 120,
+      "density": 0.52,
+      "type": "deciduous"
+    },
+    {
+      "x": 1300,
+      "y": 1390,
+      "rx": 200,
+      "ry": 65,
+      "density": 0.51,
+      "type": "deciduous"
+    },
+    {
+      "x": 1700,
+      "y": 1380,
+      "rx": 160,
+      "ry": 70,
+      "density": 0.51,
+      "type": "deciduous"
+    }
+  ],
+  "burgs": [
+    {
+      "name": "大邺",
+      "x": 1535,
+      "y": 725,
+      "group": "capital",
+      "dx": 0,
+      "dy": -96,
+      "note": "大梁帝都；自十万大山继续北行，经两个大郡抵达京畿。第969章。"
+    },
+    {
+      "name": "雁云关＊",
+      "x": 1640,
+      "y": 335,
+      "group": "fort",
+      "dx": 0,
+      "dy": -62,
+      "note": "大梁北方重镇；与天云山要塞的东西关系未交代。第993章。"
+    },
+    {
+      "name": "天云山要塞＊",
+      "x": 1265,
+      "y": 440,
+      "group": "fort",
+      "dx": 0,
+      "dy": 76,
+      "note": "北方三郡内侧、可阻大齐南下的防线，按北方范围约位。第1005章。"
+    },
+    {
+      "name": "西海郡城",
+      "x": 835,
+      "y": 790,
+      "group": "city",
+      "dx": 0,
+      "dy": 83,
+      "note": "西海郡府；大邺往西路线上的主要城池。第994、1001章。"
+    },
+    {
+      "name": "瀚海城",
+      "x": 395,
+      "y": 790,
+      "group": "city",
+      "dx": 0,
+      "dy": 83,
+      "note": "西部瀚海郡的郡城，城关位于雪山绿洲。第1001、1003章。"
+    },
+    {
+      "name": "南天门",
+      "x": 1420,
+      "y": 1170,
+      "group": "fort",
+      "dx": 0,
+      "dy": 72,
+      "note": "天路南端起点。第964章。"
+    },
+    {
+      "name": "安阳城＊",
+      "x": 1055,
+      "y": 1310,
+      "group": "city",
+      "dx": 0,
+      "dy": 85,
+      "note": "荆南郡城；荆南属于南方三郡之一，只按南方地域范围约位。第886、1022章。"
+    }
+  ],
+  "labels": [
+    {
+      "text": "大 齐",
+      "x": 1490,
+      "y": 210,
+      "size": 40,
+      "group": "region"
+    },
+    {
+      "text": "北方三郡",
+      "x": 1550,
+      "y": 470,
+      "size": 25,
+      "group": "region"
+    },
+    {
+      "text": "大 燕",
+      "x": 115,
+      "y": 445,
+      "size": 38,
+      "group": "region"
+    },
+    {
+      "text": "瀚海郡",
+      "x": 395,
+      "y": 620,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "西海郡",
+      "x": 790,
+      "y": 560,
+      "size": 32,
+      "group": "region"
+    },
+    {
+      "text": "冀川郡",
+      "x": 805,
+      "y": 330,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "西海大草原",
+      "x": 800,
+      "y": 985,
+      "size": 28,
+      "group": "region"
+    },
+    {
+      "text": "连云山＊",
+      "x": 1080,
+      "y": 610,
+      "size": 25,
+      "group": "added"
+    },
+    {
+      "text": "大 梁",
+      "x": 1725,
+      "y": 870,
+      "size": 38,
+      "group": "region"
+    },
+    {
+      "text": "淮山郡＊",
+      "x": 725,
+      "y": 1120,
+      "size": 28,
+      "group": "region"
+    },
+    {
+      "text": "荆南郡＊",
+      "x": 1070,
+      "y": 1225,
+      "size": 29,
+      "group": "region"
+    },
+    {
+      "text": "十 万 大 山",
+      "x": 1720,
+      "y": 1060,
+      "size": 32,
+      "group": "region"
+    },
+    {
+      "text": "天路",
+      "x": 1500,
+      "y": 1070,
+      "size": 24,
+      "group": "added"
+    },
+    {
+      "text": "南 蛮",
+      "x": 1630,
+      "y": 1410,
+      "size": 36,
+      "group": "region"
+    },
+    {
+      "text": "＊北境两关只按北方范围约位，彼此东西未详；连云山只按西海草原范围约位，官道不穿山。",
+      "x": 1000,
+      "y": 1537,
+      "size": 17,
+      "group": "annotation"
+    },
+    {
+      "text": "＊荆南及安阳仅定大梁南部；淮山只定在西海与南方三郡之间，区域轮廓及相互间距未详。",
+      "x": 1000,
+      "y": 1568,
+      "size": 17,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [],
+  "lakes": [],
+  "roads": [
+    {
+      "name": "大邺西行官道",
+      "points": [
+        [
+          1535,
+          725
+        ],
+        [
+          1410,
+          780
+        ],
+        [
+          1230,
+          815
+        ],
+        [
+          1080,
+          840
+        ],
+        [
+          950,
+          825
+        ],
+        [
+          835,
+          790
+        ],
+        [
+          655,
+          805
+        ],
+        [
+          510,
+          785
+        ],
+        [
+          395,
+          790
+        ],
+        [
+          270,
+          790
+        ],
+        [
+          140,
+          800
+        ]
+      ],
+      "group": "roads",
+      "note": "第994章自大邺一路西行；第1001章继续西行进入瀚海，地物间距与曲线概绘。"
+    },
+    {
+      "name": "北上官道",
+      "points": [
+        [
+          1420,
+          1315
+        ],
+        [
+          1415,
+          1230
+        ],
+        [
+          1420,
+          1170
+        ],
+        [
+          1448,
+          1120
+        ],
+        [
+          1390,
+          1075
+        ],
+        [
+          1455,
+          1030
+        ],
+        [
+          1415,
+          985
+        ],
+        [
+          1445,
+          915
+        ],
+        [
+          1480,
+          835
+        ],
+        [
+          1535,
+          725
+        ]
+      ],
+      "group": "roads",
+      "note": "天路南北贯山，南端南天门，山北继续北上到京畿；天路数百里，非直线。第964、969章。"
+    }
+  ],
+  "world": "苍青界",
+  "region": "大梁及大齐、大燕、南蛮邻境",
+  "sources": [
+    {
+      "chapter": 886,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/886.html"
+    },
+    {
+      "chapter": 964,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/964.html"
+    },
+    {
+      "chapter": 969,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/969.html"
+    },
+    {
+      "chapter": 993,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/993.html"
+    },
+    {
+      "chapter": 994,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/994.html"
+    },
+    {
+      "chapter": 996,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/996.html"
+    },
+    {
+      "chapter": 1001,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1001.html"
+    },
+    {
+      "chapter": 1005,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1005.html"
+    },
+    {
+      "chapter": 1019,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1019.html"
+    },
+    {
+      "chapter": 1022,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1022.html"
+    }
+  ]
+}

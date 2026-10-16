@@ -1,0 +1,463 @@
+{
+  "id": "r7-wushan-chibi-taiwu",
+  "world": "雾山界",
+  "region": "赤壁城及太武山城（独立局部）",
+  "title": "雾山界 · 赤壁与太武",
+  "subtitle": "赤壁山城 · 太武山下",
+  "width": 2400,
+  "height": 1700,
+  "northKnown": false,
+  "note": "问界铃所通的铃中世界，原文正式称雾山界，区别于苍青界和星海界太武星。左右为两处独立局部，不表达赤壁与太武的相对方位及距离。两城山体形态、建筑及地下行道图形为编绘。",
+  "sources": [
+    {
+      "chapter": 745,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/745.html"
+    },
+    {
+      "chapter": 755,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/755.html"
+    },
+    {
+      "chapter": 756,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/756.html"
+    },
+    {
+      "chapter": 759,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/759.html"
+    },
+    {
+      "chapter": 762,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/762.html"
+    },
+    {
+      "chapter": 798,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/798.html"
+    },
+    {
+      "chapter": 799,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/799.html"
+    }
+  ],
+  "frames": [
+    {
+      "x": 90,
+      "y": 210,
+      "width": 1050,
+      "height": 1300
+    },
+    {
+      "x": 1260,
+      "y": 210,
+      "width": 1050,
+      "height": 1300
+    }
+  ],
+  "symbolSizes": {
+    "city": 285,
+    "capital": 315
+  },
+  "symbolIcons": {
+    "capital": "capital",
+    "city": "city"
+  },
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          180,
+          480
+        ],
+        [
+          310,
+          430
+        ],
+        [
+          455,
+          475
+        ],
+        [
+          615,
+          410
+        ],
+        [
+          785,
+          465
+        ],
+        [
+          990,
+          425
+        ]
+      ],
+      "height": 68,
+      "width": 125,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          200,
+          585
+        ],
+        [
+          360,
+          550
+        ],
+        [
+          520,
+          600
+        ],
+        [
+          680,
+          545
+        ],
+        [
+          825,
+          590
+        ],
+        [
+          1005,
+          545
+        ]
+      ],
+      "height": 48,
+      "width": 95,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1360,
+          465
+        ],
+        [
+          1510,
+          405
+        ],
+        [
+          1685,
+          470
+        ],
+        [
+          1850,
+          410
+        ],
+        [
+          2040,
+          465
+        ],
+        [
+          2235,
+          400
+        ]
+      ],
+      "height": 78,
+      "width": 135,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1355,
+          575
+        ],
+        [
+          1530,
+          545
+        ],
+        [
+          1690,
+          585
+        ],
+        [
+          1870,
+          540
+        ],
+        [
+          2040,
+          600
+        ],
+        [
+          2240,
+          535
+        ]
+      ],
+      "height": 54,
+      "width": 105,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 285,
+      "y": 700,
+      "rx": 115,
+      "ry": 100,
+      "density": 0.58,
+      "type": "deciduous"
+    },
+    {
+      "x": 895,
+      "y": 705,
+      "rx": 130,
+      "ry": 105,
+      "density": 0.6,
+      "type": "deciduous"
+    },
+    {
+      "x": 265,
+      "y": 1265,
+      "rx": 100,
+      "ry": 115,
+      "density": 0.44,
+      "type": "deciduous"
+    },
+    {
+      "x": 965,
+      "y": 1240,
+      "rx": 100,
+      "ry": 140,
+      "density": 0.47,
+      "type": "deciduous"
+    },
+    {
+      "x": 1490,
+      "y": 685,
+      "rx": 130,
+      "ry": 105,
+      "density": 0.62,
+      "type": "deciduous"
+    },
+    {
+      "x": 2165,
+      "y": 700,
+      "rx": 90,
+      "ry": 100,
+      "density": 0.6,
+      "type": "deciduous"
+    },
+    {
+      "x": 1510,
+      "y": 1085,
+      "rx": 160,
+      "ry": 120,
+      "density": 0.28,
+      "type": "grass"
+    },
+    {
+      "x": 1840,
+      "y": 1135,
+      "rx": 235,
+      "ry": 170,
+      "density": 0.3,
+      "type": "grass"
+    },
+    {
+      "x": 2150,
+      "y": 1150,
+      "rx": 110,
+      "ry": 150,
+      "density": 0.25,
+      "type": "grass"
+    }
+  ],
+  "burgs": [
+    {
+      "name": "赤壁城",
+      "x": 610,
+      "y": 835,
+      "group": "city",
+      "dx": 0,
+      "dy": -168,
+      "note": "背靠雄伟山脉，另外三面建有高大暗红城墙；山在城哪一侧未详。第762章。"
+    },
+    {
+      "name": "太武城",
+      "x": 1840,
+      "y": 840,
+      "group": "capital",
+      "dx": 0,
+      "dy": -179,
+      "note": "雾山界第一大城，依太武山而建，城外为平原田园、农庄和道路；用大城图符强调规模，不代表王朝都城。第798、799章。"
+    }
+  ],
+  "labels": [
+    {
+      "text": "赤 壁",
+      "x": 615,
+      "y": 290,
+      "size": 34,
+      "group": "region"
+    },
+    {
+      "text": "太 武",
+      "x": 1785,
+      "y": 290,
+      "size": 34,
+      "group": "region"
+    },
+    {
+      "text": "城后山脉＊",
+      "x": 600,
+      "y": 460,
+      "size": 28,
+      "group": "region"
+    },
+    {
+      "text": "迷雾荒野",
+      "x": 600,
+      "y": 1370,
+      "size": 30,
+      "group": "region"
+    },
+    {
+      "text": "华容道＊",
+      "x": 600,
+      "y": 1090,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "地下行道",
+      "x": 600,
+      "y": 1135,
+      "size": 20,
+      "group": "annotation"
+    },
+    {
+      "text": "太 武 山",
+      "x": 1815,
+      "y": 445,
+      "size": 35,
+      "group": "region"
+    },
+    {
+      "text": "平原田畴",
+      "x": 1820,
+      "y": 1335,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "＊赤壁城背山、三面城墙；华容道为地下主干道，经石门与上行阶梯入城。",
+      "x": 1200,
+      "y": 1627,
+      "size": 20,
+      "group": "annotation"
+    },
+    {
+      "text": "＊太武依山，周边平原多农庄与道路；村舍图形为田园纹理，不代表已定位村名。",
+      "x": 1200,
+      "y": 1660,
+      "size": 20,
+      "group": "annotation"
+    }
+  ],
+  "roads": [
+    {
+      "name": "华容道（地下）",
+      "points": [
+        [
+          380,
+          1220
+        ],
+        [
+          440,
+          1180
+        ],
+        [
+          510,
+          1170
+        ],
+        [
+          565,
+          1120
+        ],
+        [
+          600,
+          1075
+        ],
+        [
+          610,
+          980
+        ]
+      ],
+      "group": "trails",
+      "note": "只概绘赤壁地下主道及上行出口，形状和方向未知，不连接小石村或太武城。"
+    },
+    {
+      "name": "太武城郊道路",
+      "points": [
+        [
+          1400,
+          1230
+        ],
+        [
+          1550,
+          1150
+        ],
+        [
+          1660,
+          1070
+        ],
+        [
+          1770,
+          1010
+        ],
+        [
+          1840,
+          945
+        ]
+      ],
+      "group": "roads",
+      "note": "第798章明确城外驰道交错、农庄村舍分布；线形为城郊纹理，不作为跨城路线。"
+    },
+    {
+      "name": "太武城郊道路",
+      "points": [
+        [
+          1840,
+          945
+        ],
+        [
+          1960,
+          1030
+        ],
+        [
+          2100,
+          1100
+        ],
+        [
+          2230,
+          1210
+        ]
+      ],
+      "group": "roads",
+      "note": "城郊道路概绘。"
+    }
+  ],
+  "rivers": [],
+  "lakes": [],
+  "settlementVignettes": [
+    {
+      "x": 1485,
+      "y": 1210,
+      "size": 90
+    },
+    {
+      "x": 1650,
+      "y": 1320,
+      "size": 80
+    },
+    {
+      "x": 2065,
+      "y": 1230,
+      "size": 95
+    },
+    {
+      "x": 2180,
+      "y": 1340,
+      "size": 75
+    }
+  ]
+}

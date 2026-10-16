@@ -1,0 +1,224 @@
+{
+  "id": "haotian-qingqiu",
+  "title": "青丘谷地",
+  "world": "昊天界",
+  "region": "青丘",
+  "subtitle": "昊天界",
+  "width": 1800,
+  "height": 1300,
+  "northKnown": false,
+  "symbolNote": "",
+  "burgs": [
+    {
+      "name": "瀑旁木屋＊",
+      "x": 1090,
+      "y": 500,
+      "group": "village",
+      "dy": -85,
+      "note": ""
+    }
+  ],
+  "labels": [
+    {
+      "text": "青 丘",
+      "x": 850,
+      "y": 230,
+      "size": 43,
+      "group": "region"
+    },
+    {
+      "text": "瀑 布",
+      "x": 875,
+      "y": 445,
+      "size": 28,
+      "group": "added"
+    },
+    {
+      "text": "山 谷",
+      "x": 770,
+      "y": 650,
+      "size": 34,
+      "group": "region"
+    },
+    {
+      "text": "狐族木屋",
+      "x": 535,
+      "y": 980,
+      "size": 26,
+      "group": "added"
+    },
+    {
+      "text": "＊据谷内瀑布、溪涧、树林与木屋的邻接关系分绘；全幅未定向，不表示青丘相对其他仙城的位置。",
+      "x": 900,
+      "y": 1240,
+      "size": 20,
+      "group": "annotation"
+    }
+  ],
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          340,
+          350
+        ],
+        [
+          620,
+          300
+        ],
+        [
+          900,
+          345
+        ],
+        [
+          1150,
+          290
+        ],
+        [
+          1450,
+          360
+        ]
+      ],
+      "width": 105,
+      "height": 62,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          240,
+          530
+        ],
+        [
+          275,
+          700
+        ],
+        [
+          230,
+          900
+        ]
+      ],
+      "width": 72,
+      "height": 45,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1510,
+          500
+        ],
+        [
+          1560,
+          730
+        ],
+        [
+          1490,
+          950
+        ]
+      ],
+      "width": 72,
+      "height": 45,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 490,
+      "y": 690,
+      "rx": 200,
+      "ry": 160,
+      "type": "deciduous",
+      "density": 0.45
+    },
+    {
+      "x": 1300,
+      "y": 850,
+      "rx": 170,
+      "ry": 130,
+      "type": "deciduous",
+      "density": 0.45
+    },
+    {
+      "x": 900,
+      "y": 940,
+      "rx": 230,
+      "ry": 100,
+      "type": "grass",
+      "density": 0.5
+    }
+  ],
+  "rivers": [
+    {
+      "name": "瀑下溪涧",
+      "points": [
+        [
+          990,
+          440
+        ],
+        [
+          1005,
+          525
+        ],
+        [
+          945,
+          650
+        ],
+        [
+          870,
+          800
+        ],
+        [
+          940,
+          950
+        ],
+        [
+          885,
+          1115
+        ]
+      ],
+      "width": 4
+    }
+  ],
+  "roads": [],
+  "settlementVignettes": [
+    {
+      "x": 600,
+      "y": 780,
+      "size": 90
+    },
+    {
+      "x": 770,
+      "y": 940,
+      "size": 90
+    },
+    {
+      "x": 1210,
+      "y": 960,
+      "size": 90
+    }
+  ],
+  "symbolIcons": {
+    "capital": "turtle-city",
+    "town": "village",
+    "monastery": "sect"
+  },
+  "symbolSizes": {
+    "capital": 300,
+    "city": 140,
+    "town": 110,
+    "village": 110,
+    "monastery": 140
+  },
+  "sources": [
+    {
+      "chapter": 741,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/741.html"
+    },
+    {
+      "chapter": 742,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/742.html"
+    }
+  ],
+  "note": "第741章青丘为狐族圣地，谷内参天大树、草地、溪涧与百丈瀑布；第742章瀑布边木屋与谷内分散低层木屋。长盛—青丘途中有意识中断，不能由行程序列补出两地空间方位，因此本图独立分幅。"
+}

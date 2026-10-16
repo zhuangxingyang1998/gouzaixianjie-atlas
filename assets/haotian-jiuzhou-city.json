@@ -1,0 +1,251 @@
+{
+  "id": "haotian-jiuzhou-city",
+  "title": "九州仙城 · 城区局部",
+  "subtitle": "昊天界 · 天级仙城",
+  "world": "昊天界",
+  "region": "九州仙城",
+  "width": 1600,
+  "height": 1100,
+  "northKnown": false,
+  "note": "原文1102、1103：九州为三大天级仙城之一，也是九州仙盟所在地。洛都至九州乘传送大阵，方向和距离无据，未强接两城。此图只画传送抵达后所见城区：宏伟殿堂与周围琼楼玉宇、奇峰、瀑布、灵植、山居洞府；附近茶楼有据。各图符的方位、数量、峰形与具体街道不明，因此不画全城疆界、城门或伪造道路。",
+  "symbolSizes": {
+    "capital": 235,
+    "city": 145,
+    "monastery": 120,
+    "town": 108
+  },
+  "symbolIcons": {
+    "capital": "capital",
+    "city": "sect",
+    "monastery": "sect",
+    "town": "village-temple"
+  },
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          250,
+          350
+        ],
+        [
+          360,
+          300
+        ],
+        [
+          490,
+          340
+        ],
+        [
+          570,
+          310
+        ]
+      ],
+      "height": 31,
+      "width": 80,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1040,
+          330
+        ],
+        [
+          1160,
+          295
+        ],
+        [
+          1295,
+          340
+        ],
+        [
+          1380,
+          315
+        ]
+      ],
+      "height": 34,
+      "width": 85,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1140,
+          650
+        ],
+        [
+          1240,
+          590
+        ],
+        [
+          1370,
+          630
+        ]
+      ],
+      "height": 27,
+      "width": 75,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 260,
+      "y": 525,
+      "rx": 150,
+      "ry": 95,
+      "density": 0.52
+    },
+    {
+      "x": 1030,
+      "y": 555,
+      "rx": 112,
+      "ry": 130,
+      "density": 0.55
+    },
+    {
+      "x": 480,
+      "y": 770,
+      "rx": 200,
+      "ry": 70,
+      "density": 0.45
+    },
+    {
+      "x": 1280,
+      "y": 790,
+      "rx": 145,
+      "ry": 60,
+      "density": 0.5
+    }
+  ],
+  "burgs": [
+    {
+      "name": "传送殿堂＊",
+      "x": 740,
+      "y": 575,
+      "group": "capital",
+      "dy": -145,
+      "source_refs": [
+        "q1102",
+        "q1103"
+      ]
+    },
+    {
+      "name": "琼楼玉宇＊",
+      "x": 460,
+      "y": 570,
+      "group": "city",
+      "dy": -95,
+      "source_refs": [
+        "q1103"
+      ]
+    },
+    {
+      "name": "山居洞府＊",
+      "x": 1235,
+      "y": 420,
+      "group": "monastery",
+      "dy": -80,
+      "source_refs": [
+        "q1103"
+      ]
+    },
+    {
+      "name": "茶楼＊",
+      "x": 785,
+      "y": 780,
+      "group": "town",
+      "dy": -77,
+      "source_refs": [
+        "q1103"
+      ]
+    }
+  ],
+  "settlementVignettes": [
+    {
+      "x": 535,
+      "y": 695,
+      "size": 88
+    },
+    {
+      "x": 955,
+      "y": 740,
+      "size": 85
+    },
+    {
+      "x": 920,
+      "y": 460,
+      "size": 80
+    }
+  ],
+  "labels": [
+    {
+      "text": "奇 峰",
+      "x": 420,
+      "y": 245,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "瀑布＊",
+      "x": 1175,
+      "y": 570,
+      "size": 25
+    },
+    {
+      "text": "灵植园林＊",
+      "x": 270,
+      "y": 675,
+      "size": 26
+    },
+    {
+      "text": "＊各处同属传送殿堂周围城区；相互方位与间距无据，不设罗盘和比例尺。",
+      "x": 800,
+      "y": 955,
+      "size": 19,
+      "group": "annotation"
+    },
+    {
+      "text": "＊峰形、瀑线、建筑排布为图符表达；未绘完整城界、街巷或洛都方向。",
+      "x": 800,
+      "y": 985,
+      "size": 19,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [
+    {
+      "points": [
+        [
+          1180,
+          360
+        ],
+        [
+          1170,
+          405
+        ],
+        [
+          1165,
+          455
+        ],
+        [
+          1150,
+          510
+        ]
+      ],
+      "width": 2.6,
+      "note": "奇峰间垂落的瀑布有据，图中曲线不是已测水道；不续画无据河流。"
+    }
+  ],
+  "roads": [],
+  "sources": [
+    {
+      "title": "原文章页 1102",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1102.html"
+    },
+    {
+      "title": "原文章页 1103",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1103.html"
+    }
+  ]
+}

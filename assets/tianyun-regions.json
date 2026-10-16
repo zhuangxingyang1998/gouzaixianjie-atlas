@@ -1,0 +1,252 @@
+{
+  "id": "tianyun-regions",
+  "title": "天云山域",
+  "subtitle": "山海界 · 东沧洲",
+  "width": 1800,
+  "height": 1000,
+  "northKnown": true,
+  "symbolNote": "",
+  "symbolIcons": {
+    "monastery": "sect"
+  },
+  "symbolSizes": {
+    "monastery": 130,
+    "city": 115
+  },
+  "burgs": [
+    {
+      "name": "归元门＊",
+      "x": 688.3000000000001,
+      "y": 384,
+      "group": "monastery",
+      "note": "归元在云阳北方；山址与距离未详。",
+      "dy": -76
+    },
+    {
+      "name": "云阳派＊",
+      "x": 688.3000000000001,
+      "y": 690,
+      "group": "monastery",
+      "note": "以山门符号概括云阳地域，只示其与北方归元、天云南麓的粗关系。",
+      "dy": -76
+    },
+    {
+      "name": "东梧寨＊",
+      "x": 1491.7,
+      "y": 558,
+      "group": "city",
+      "note": "位于天云山脉东麓大山谷；对云山城的精确方位未详。",
+      "dy": -76
+    }
+  ],
+  "labels": [
+    {
+      "text": "天 云 山 脉",
+      "x": 550,
+      "y": 470,
+      "size": 38,
+      "group": "region"
+    },
+    {
+      "text": "原云阳辖地",
+      "x": 420,
+      "y": 830,
+      "size": 30,
+      "group": "region"
+    },
+    {
+      "text": "风雷谷＊",
+      "x": 1120,
+      "y": 720,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "＊归元在云阳北方，东梧居天云东麓，风雷谷属原云阳辖地腹地；宗门山址、边界及间距为绘意。",
+      "x": 900,
+      "y": 952,
+      "size": 19,
+      "group": "annotation"
+    }
+  ],
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          204.20000000000002,
+          450
+        ],
+        [
+          420.5,
+          426
+        ],
+        [
+          636.8000000000001,
+          474
+        ],
+        [
+          853.1,
+          432
+        ],
+        [
+          1079.7,
+          486
+        ],
+        [
+          1296,
+          474
+        ]
+      ],
+      "width": 71.5,
+      "height": 40,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1388.7,
+          654
+        ],
+        [
+          1502,
+          678
+        ],
+        [
+          1605,
+          636
+        ]
+      ],
+      "width": 52.800000000000004,
+      "height": 40,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          976.7,
+          642
+        ],
+        [
+          1059.1,
+          618
+        ],
+        [
+          1120.9,
+          642
+        ]
+      ],
+      "width": 44,
+      "height": 40,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1182.7,
+          630
+        ],
+        [
+          1265.1000000000001,
+          606
+        ]
+      ],
+      "width": 44,
+      "height": 40,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 379.3,
+      "y": 582,
+      "rx": 175.1,
+      "ry": 66,
+      "type": "deciduous",
+      "density": 0.4
+    },
+    {
+      "x": 1151.8,
+      "y": 543.5999999999999,
+      "rx": 133.9,
+      "ry": 60,
+      "type": "deciduous",
+      "density": 0.4
+    },
+    {
+      "x": 1491.7,
+      "y": 588,
+      "rx": 92.7,
+      "ry": 48,
+      "type": "grass",
+      "density": 0.3
+    }
+  ],
+  "regions": [
+    {
+      "name": "原云阳辖地粗区域",
+      "color": "#b6bea0",
+      "points": [
+        [
+          302.05,
+          534
+        ],
+        [
+          688.3000000000001,
+          510
+        ],
+        [
+          1017.9,
+          528
+        ],
+        [
+          1301.15,
+          558
+        ],
+        [
+          1337.2,
+          744
+        ],
+        [
+          956.1,
+          774
+        ],
+        [
+          595.6,
+          762
+        ],
+        [
+          286.6,
+          750
+        ]
+      ],
+      "note": "只表达风雷谷处于原云阳统辖腹地以及云阳相关粗区域；并非实际领土边界，不等同九峰内门。"
+    }
+  ],
+  "note": "保留第99章归元在云阳北方、第238/239章东梧在天云东麓谷地、第243/265章风雷谷位于原云阳统辖腹地。非九峰内门图。",
+  "source_evidence": [
+    "r6-outer-location-review.txt"
+  ],
+  "world": "山海界",
+  "sources": [
+    {
+      "chapter": 99,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/99.html"
+    },
+    {
+      "chapter": 238,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/238.html"
+    },
+    {
+      "chapter": 239,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/239.html"
+    },
+    {
+      "chapter": 243,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/243.html"
+    },
+    {
+      "chapter": 265,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/265.html"
+    }
+  ]
+}

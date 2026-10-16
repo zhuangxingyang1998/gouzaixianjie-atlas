@@ -1,0 +1,450 @@
+{
+  "id": "xiyu-daying-r7",
+  "title": "西域 · 火焰山与大郢边境",
+  "world": "山海界",
+  "subtitle": "山海界 · 西域",
+  "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+  "width": 2200,
+  "height": 1700,
+  "northKnown": false,
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          900,
+          310
+        ],
+        [
+          925,
+          440
+        ],
+        [
+          890,
+          580
+        ],
+        [
+          935,
+          720
+        ],
+        [
+          905,
+          915
+        ]
+      ],
+      "height": 50,
+      "width": 78,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1115,
+          360
+        ],
+        [
+          1250,
+          385
+        ],
+        [
+          1410,
+          355
+        ],
+        [
+          1580,
+          385
+        ]
+      ],
+      "height": 20,
+      "width": 70,
+      "type": "dune"
+    },
+    {
+      "points": [
+        [
+          1180,
+          815
+        ],
+        [
+          1320,
+          845
+        ],
+        [
+          1480,
+          810
+        ],
+        [
+          1640,
+          845
+        ]
+      ],
+      "height": 18,
+      "width": 75,
+      "type": "dune"
+    },
+    {
+      "points": [
+        [
+          250,
+          370
+        ],
+        [
+          390,
+          350
+        ],
+        [
+          550,
+          390
+        ]
+      ],
+      "height": 27,
+      "width": 48,
+      "type": "hill"
+    },
+    {
+      "points": [
+        [
+          1240,
+          1165
+        ],
+        [
+          1400,
+          1185
+        ],
+        [
+          1590,
+          1200
+        ]
+      ],
+      "height": 43,
+      "width": 55,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1250,
+          1450
+        ],
+        [
+          1430,
+          1420
+        ],
+        [
+          1610,
+          1455
+        ]
+      ],
+      "height": 43,
+      "width": 55,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          260,
+          1265
+        ],
+        [
+          450,
+          1295
+        ],
+        [
+          640,
+          1260
+        ],
+        [
+          820,
+          1300
+        ]
+      ],
+      "height": 18,
+      "width": 55,
+      "type": "dune"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 415,
+      "y": 735,
+      "rx": 215,
+      "ry": 105,
+      "type": "grass",
+      "density": 0.35
+    },
+    {
+      "x": 580,
+      "y": 475,
+      "rx": 140,
+      "ry": 70,
+      "type": "deciduous",
+      "density": 0.55
+    },
+    {
+      "x": 1420,
+      "y": 640,
+      "rx": 200,
+      "ry": 135,
+      "type": "dune",
+      "density": 0.55
+    },
+    {
+      "x": 1900,
+      "y": 1350,
+      "rx": 135,
+      "ry": 125,
+      "type": "grass",
+      "density": 0.32
+    }
+  ],
+  "lakes": [],
+  "burgs": [
+    {
+      "name": "赤陀城",
+      "x": 1040,
+      "y": 620,
+      "group": "city",
+      "dx": 12,
+      "dy": -70,
+      "note": "560：火焰山东麓，北、南、东三面沙丘；城内金佛寺设跨山传送阵。"
+    },
+    {
+      "name": "灵山寺＊",
+      "x": 410,
+      "y": 600,
+      "group": "monastery",
+      "dx": 0,
+      "dy": -67,
+      "note": "565：位于西天佛域金色灵山脚下；在盆地内粗位，未推定精确方向。"
+    },
+    {
+      "name": "大郢城＊",
+      "x": 1900,
+      "y": 620,
+      "group": "city",
+      "dx": 0,
+      "dy": -70,
+      "note": "西州边郡首府，西域大沙漠东侧。"
+    },
+    {
+      "name": "大郢城",
+      "x": 1660,
+      "y": 1315,
+      "group": "city",
+      "dx": 0,
+      "dy": -76,
+      "note": "下图放大：主体在峡谷东，城西凸入峡谷。"
+    },
+    {
+      "name": "镇沙关",
+      "x": 1500,
+      "y": 1315,
+      "group": "fort",
+      "dx": -15,
+      "dy": 73,
+      "note": "大郢城的组成部分，封闭峡谷出口；不视为另一独立城。"
+    }
+  ],
+  "labels": [
+    {
+      "text": "西 天 佛 域",
+      "x": 420,
+      "y": 270,
+      "size": 37,
+      "group": "region"
+    },
+    {
+      "text": "富饶盆地",
+      "x": 440,
+      "y": 850,
+      "size": 28,
+      "group": "region"
+    },
+    {
+      "text": "火 焰 山",
+      "x": 785,
+      "y": 560,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "西 域 大 沙 漠",
+      "x": 1440,
+      "y": 470,
+      "size": 35,
+      "group": "region"
+    },
+    {
+      "text": "西海灵域 · 西州",
+      "x": 1900,
+      "y": 285,
+      "size": 28,
+      "group": "region"
+    },
+    {
+      "text": "金佛寺",
+      "x": 1100,
+      "y": 702,
+      "size": 21,
+      "group": "added"
+    },
+    {
+      "text": "大郢城关 · 局部放大",
+      "x": 490,
+      "y": 1135,
+      "size": 27,
+      "group": "region"
+    },
+    {
+      "text": "峡 谷",
+      "x": 1280,
+      "y": 1305,
+      "size": 23,
+      "group": "added"
+    },
+    {
+      "text": "七星阁",
+      "x": 1535,
+      "y": 1240,
+      "size": 22,
+      "group": "added"
+    },
+    {
+      "text": "灵田与村镇＊",
+      "x": 1925,
+      "y": 1485,
+      "size": 24,
+      "group": "added"
+    },
+    {
+      "text": "西域大沙漠",
+      "x": 480,
+      "y": 1445,
+      "size": 26,
+      "group": "region"
+    },
+    {
+      "text": "＊ 星号为粗位；上下分幅不同比例。山形、盆地轮廓、关城间距与建筑为编绘；跨火焰山使用传送。",
+      "x": 1100,
+      "y": 1640,
+      "size": 18,
+      "group": "annotation"
+    },
+    {
+      "text": "↑ 北",
+      "x": 175,
+      "y": 300,
+      "size": 24,
+      "group": "annotation"
+    },
+    {
+      "text": "↑ 北",
+      "x": 175,
+      "y": 1195,
+      "size": 24,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [],
+  "roads": [
+    {
+      "name": "大郢峡谷通道",
+      "points": [
+        [
+          720,
+          1335
+        ],
+        [
+          1000,
+          1325
+        ],
+        [
+          1220,
+          1320
+        ],
+        [
+          1450,
+          1315
+        ],
+        [
+          1600,
+          1315
+        ]
+      ],
+      "group": "roads",
+      "note": "450/478所述沙漠—峡谷—关城；不画为穿越整个沙漠的既定道路。"
+    }
+  ],
+  "symbolSizes": {
+    "city": 140,
+    "capital": 155,
+    "town": 135,
+    "village": 95,
+    "fort": 135,
+    "monastery": 110
+  },
+  "symbolIcons": {
+    "town": "open-city",
+    "monastery": "sect"
+  },
+  "frames": [
+    {
+      "x": 70,
+      "y": 190,
+      "width": 2060,
+      "height": 830
+    },
+    {
+      "x": 70,
+      "y": 1070,
+      "width": 2060,
+      "height": 480
+    }
+  ],
+  "settlementVignettes": [
+    {
+      "x": 1820,
+      "y": 1400,
+      "size": 68
+    },
+    {
+      "x": 2010,
+      "y": 1270,
+      "size": 65
+    }
+  ],
+  "sources": [
+    {
+      "chapter": 450,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/450.html"
+    },
+    {
+      "chapter": 478,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/478.html"
+    },
+    {
+      "chapter": 559,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/559.html"
+    },
+    {
+      "chapter": 560,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/560.html"
+    },
+    {
+      "chapter": 561,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/561.html"
+    },
+    {
+      "chapter": 562,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/562.html"
+    },
+    {
+      "chapter": 565,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/565.html"
+    },
+    {
+      "chapter": 571,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/571.html"
+    }
+  ]
+}

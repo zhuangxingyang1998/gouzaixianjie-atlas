@@ -1,0 +1,1490 @@
+{
+  "id": "yunyang-tianyun-regional",
+  "title": "云阳山门",
+  "subtitle": "山海界 · 东沧洲",
+  "note": "r5依据重新核读原文：内山门是核心山地区域，不能等同入口建筑。九峰与云龙均属内门；外门为外围农林、三城卫所地域。落日处内门地域西南；石碑入口至落日的行程朝西北。其他峰和城址的横向图面位置为概排，旁注标明。庄园在落日峰西脚，距上山阶梯三里。云山至落日行程两三百里，云龙至落日近三百里，均不是实测直线。轮廓、山脊、水道曲线不作原文地形复原；边界未详，不绘完整实界。",
+  "width": 2400,
+  "height": 2100,
+  "northKnown": true,
+  "symbolIcons": {
+    "monastery": "sect",
+    "town": "open-city"
+  },
+  "symbolSizes": {
+    "capital": 200,
+    "city": 200,
+    "town": 208,
+    "monastery": 190,
+    "village": 142,
+    "fort": 145
+  },
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          300,
+          440
+        ],
+        [
+          470,
+          330
+        ],
+        [
+          665,
+          380
+        ],
+        [
+          865,
+          295
+        ],
+        [
+          1080,
+          360
+        ],
+        [
+          1300,
+          275
+        ],
+        [
+          1525,
+          350
+        ],
+        [
+          1735,
+          290
+        ],
+        [
+          1940,
+          360
+        ],
+        [
+          2115,
+          475
+        ]
+      ],
+      "height": 47,
+      "width": 118,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124",
+        "ch128"
+      ]
+    },
+    {
+      "points": [
+        [
+          275,
+          570
+        ],
+        [
+          440,
+          515
+        ],
+        [
+          605,
+          570
+        ],
+        [
+          795,
+          505
+        ],
+        [
+          1005,
+          575
+        ],
+        [
+          1205,
+          510
+        ],
+        [
+          1405,
+          580
+        ],
+        [
+          1615,
+          515
+        ],
+        [
+          1830,
+          590
+        ],
+        [
+          2050,
+          550
+        ],
+        [
+          2160,
+          675
+        ]
+      ],
+      "height": 39,
+      "width": 95,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "points": [
+        [
+          340,
+          740
+        ],
+        [
+          490,
+          680
+        ],
+        [
+          650,
+          735
+        ],
+        [
+          830,
+          665
+        ],
+        [
+          1000,
+          730
+        ],
+        [
+          1190,
+          680
+        ],
+        [
+          1385,
+          742
+        ],
+        [
+          1585,
+          675
+        ],
+        [
+          1780,
+          740
+        ],
+        [
+          1980,
+          675
+        ],
+        [
+          2125,
+          785
+        ]
+      ],
+      "height": 35,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "points": [
+        [
+          350,
+          870
+        ],
+        [
+          455,
+          825
+        ],
+        [
+          570,
+          880
+        ]
+      ],
+      "height": 30,
+      "width": 70,
+      "type": "hill",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch129",
+        "ch130"
+      ]
+    },
+    {
+      "points": [
+        [
+          1220,
+          410
+        ],
+        [
+          1280,
+          365
+        ],
+        [
+          1340,
+          420
+        ]
+      ],
+      "height": 69,
+      "width": 88,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126",
+        "ch157"
+      ]
+    },
+    {
+      "points": [
+        [
+          575,
+          445
+        ],
+        [
+          635,
+          410
+        ],
+        [
+          700,
+          455
+        ]
+      ],
+      "height": 46,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          1750,
+          455
+        ],
+        [
+          1820,
+          420
+        ],
+        [
+          1885,
+          470
+        ]
+      ],
+      "height": 45,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          1920,
+          340
+        ],
+        [
+          1980,
+          300
+        ],
+        [
+          2040,
+          350
+        ]
+      ],
+      "height": 46,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          820,
+          705
+        ],
+        [
+          885,
+          665
+        ],
+        [
+          950,
+          715
+        ]
+      ],
+      "height": 44,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          1510,
+          740
+        ],
+        [
+          1575,
+          700
+        ],
+        [
+          1640,
+          750
+        ]
+      ],
+      "height": 45,
+      "width": 82,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          2020,
+          815
+        ],
+        [
+          2080,
+          775
+        ],
+        [
+          2140,
+          825
+        ]
+      ],
+      "height": 44,
+      "width": 78,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          740,
+          930
+        ],
+        [
+          805,
+          890
+        ],
+        [
+          870,
+          940
+        ]
+      ],
+      "height": 42,
+      "width": 78,
+      "type": "mount",
+      "geometry_status": "bearing_unknown",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "points": [
+        [
+          490,
+          1000
+        ],
+        [
+          565,
+          945
+        ],
+        [
+          640,
+          1010
+        ]
+      ],
+      "height": 45,
+      "width": 90,
+      "type": "mount",
+      "geometry_status": "southwest_of_inner_region",
+      "source_refs": [
+        "ch153"
+      ]
+    },
+    {
+      "points": [
+        [
+          1440,
+          850
+        ],
+        [
+          1540,
+          800
+        ],
+        [
+          1650,
+          825
+        ],
+        [
+          1750,
+          790
+        ],
+        [
+          1850,
+          850
+        ]
+      ],
+      "height": 40,
+      "width": 70,
+      "type": "mount",
+      "geometry_status": "local_relation_known_region_position_unknown",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "points": [
+        [
+          1425,
+          885
+        ],
+        [
+          1400,
+          975
+        ],
+        [
+          1430,
+          1080
+        ]
+      ],
+      "height": 36,
+      "width": 64,
+      "type": "mount",
+      "geometry_status": "local_relation_known_region_position_unknown",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "points": [
+        [
+          1870,
+          885
+        ],
+        [
+          1900,
+          975
+        ],
+        [
+          1870,
+          1080
+        ]
+      ],
+      "height": 36,
+      "width": 64,
+      "type": "mount",
+      "geometry_status": "local_relation_known_region_position_unknown",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "points": [
+        [
+          360,
+          1205
+        ],
+        [
+          500,
+          1185
+        ],
+        [
+          640,
+          1225
+        ]
+      ],
+      "height": 25,
+      "width": 56,
+      "type": "hill",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch130",
+        "ch131"
+      ]
+    },
+    {
+      "points": [
+        [
+          985,
+          1350
+        ],
+        [
+          1115,
+          1300
+        ],
+        [
+          1240,
+          1350
+        ],
+        [
+          1370,
+          1320
+        ]
+      ],
+      "height": 38,
+      "width": 91,
+      "type": "mount",
+      "geometry_status": "north_of_yunshan_city_known_outline_unknown",
+      "source_refs": [
+        "ch20"
+      ]
+    },
+    {
+      "points": [
+        [
+          180,
+          1435
+        ],
+        [
+          300,
+          1390
+        ],
+        [
+          420,
+          1445
+        ]
+      ],
+      "height": 26,
+      "width": 67,
+      "type": "hill",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch1",
+        "ch38"
+      ]
+    },
+    {
+      "points": [
+        [
+          2100,
+          1330
+        ],
+        [
+          2220,
+          1300
+        ],
+        [
+          2320,
+          1360
+        ]
+      ],
+      "height": 28,
+      "width": 63,
+      "type": "hill",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch38"
+      ]
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 415,
+      "y": 610,
+      "rx": 120,
+      "ry": 80,
+      "density": 0.35,
+      "type": "conifer",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "x": 1010,
+      "y": 470,
+      "rx": 125,
+      "ry": 75,
+      "density": 0.36,
+      "type": "conifer",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "x": 1770,
+      "y": 615,
+      "rx": 125,
+      "ry": 75,
+      "density": 0.34,
+      "type": "conifer",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "x": 1235,
+      "y": 820,
+      "rx": 140,
+      "ry": 75,
+      "density": 0.32,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch124"
+      ]
+    },
+    {
+      "x": 300,
+      "y": 930,
+      "rx": 100,
+      "ry": 60,
+      "density": 0.34,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch153"
+      ]
+    },
+    {
+      "x": 910,
+      "y": 1055,
+      "rx": 115,
+      "ry": 65,
+      "density": 0.18,
+      "type": "grass",
+      "geometry_status": "inner_gate_valley_farmland_known_outline_unknown",
+      "source_refs": [
+        "ch129",
+        "ch130"
+      ]
+    },
+    {
+      "x": 390,
+      "y": 1185,
+      "rx": 125,
+      "ry": 60,
+      "density": 0.22,
+      "type": "deciduous",
+      "geometry_status": "orchard_and_bamboo_concept",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "x": 1730,
+      "y": 1170,
+      "rx": 145,
+      "ry": 44,
+      "density": 0.19,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "x": 570,
+      "y": 1430,
+      "rx": 150,
+      "ry": 95,
+      "density": 0.31,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch38"
+      ]
+    },
+    {
+      "x": 1620,
+      "y": 1400,
+      "rx": 175,
+      "ry": 90,
+      "density": 0.32,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch38"
+      ]
+    },
+    {
+      "x": 915,
+      "y": 1715,
+      "rx": 170,
+      "ry": 105,
+      "density": 0.25,
+      "type": "grass",
+      "geometry_status": "southern_foothill_farmland_concept",
+      "source_refs": [
+        "ch1",
+        "ch101"
+      ]
+    },
+    {
+      "x": 1630,
+      "y": 1740,
+      "rx": 160,
+      "ry": 100,
+      "density": 0.24,
+      "type": "grass",
+      "geometry_status": "pasture_concept_location_unknown",
+      "source_refs": [
+        "ch101"
+      ]
+    },
+    {
+      "x": 2170,
+      "y": 1740,
+      "rx": 120,
+      "ry": 95,
+      "density": 0.26,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch38"
+      ]
+    }
+  ],
+  "lakes": [
+    {
+      "name": "云泽湖",
+      "points": [
+        [
+          2150,
+          1460
+        ],
+        [
+          2210,
+          1432
+        ],
+        [
+          2270,
+          1450
+        ],
+        [
+          2320,
+          1495
+        ],
+        [
+          2325,
+          1555
+        ],
+        [
+          2285,
+          1605
+        ],
+        [
+          2220,
+          1622
+        ],
+        [
+          2165,
+          1595
+        ],
+        [
+          2120,
+          1545
+        ],
+        [
+          2122,
+          1490
+        ]
+      ],
+      "note": "附近有湖是明确事实；图中湖在云湖城东及具体岸线均为概绘，实际城湖朝向未知。",
+      "geometry_status": "near_yunhu_known_bearing_unknown",
+      "source_refs": [
+        "ch184"
+      ]
+    }
+  ],
+  "burgs": [
+    {
+      "name": "太浩峰＊",
+      "x": 1280,
+      "y": 545,
+      "group": "monastery",
+      "dx": 0,
+      "dy": -85,
+      "note": "太浩属于内门九峰，为云阳主峰、天云最高峰。图符概括峰顶道场，峰在核心区的具体位置未知，不能将图面居中当作原文中心。",
+      "source_refs": [
+        "ch126",
+        "ch157"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "unknown"
+    },
+    {
+      "name": "落日峰道场",
+      "x": 565,
+      "y": 1085,
+      "group": "monastery",
+      "dx": 18,
+      "dy": -75,
+      "note": "落日在内山门核心地域西南；入口来此行程向西北。道场为峰顶场所的夸绘，山脚田园同属内门。",
+      "source_refs": [
+        "ch128",
+        "ch129",
+        "ch153"
+      ],
+      "bearing_certainty": "exact",
+      "distance_certainty": "unknown"
+    },
+    {
+      "name": "汪尘庄园",
+      "x": 350,
+      "y": 1090,
+      "group": "village",
+      "dx": -15,
+      "dy": -65,
+      "note": "落日西脚的内门灵植庄园，距上山石径阶梯三里；图符夸大且局部距离不与全图统一比例。",
+      "source_refs": [
+        "ch130",
+        "ch131",
+        "ch153"
+      ],
+      "bearing_certainty": "exact",
+      "distance_certainty": "approximate"
+    },
+    {
+      "name": "云龙城＊",
+      "x": 1650,
+      "y": 1040,
+      "group": "town",
+      "dx": 0,
+      "dy": -88,
+      "note": "九峰一城中的内城，明确放在内门地域内。东、西、北环山，无城墙。距落日近三百里，但相对落日及其余峰的方位未知。",
+      "source_refs": [
+        "ch131"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "approximate"
+    },
+    {
+      "name": "云海城＊",
+      "x": 420,
+      "y": 1590,
+      "group": "city",
+      "dx": 0,
+      "dy": -92,
+      "note": "外门三城之一。横向及南侧排版位置为概排；真实朝向、距离和周围地貌未知，名字不证明有海。",
+      "source_refs": [
+        "ch131"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "unknown"
+    },
+    {
+      "name": "云山城",
+      "x": 1160,
+      "y": 1580,
+      "group": "city",
+      "dx": 0,
+      "dy": -92,
+      "note": "明确外门所属，北靠天云山并坐落灵脉末端；在外门区域中的横向位置为概排。到落日行程两三百里，未得直线方位。",
+      "source_refs": [
+        "ch20",
+        "ch58",
+        "ch129",
+        "ch131"
+      ],
+      "bearing_certainty": "approximate",
+      "distance_certainty": "approximate"
+    },
+    {
+      "name": "云湖城＊",
+      "x": 1930,
+      "y": 1560,
+      "group": "city",
+      "dx": 0,
+      "dy": -92,
+      "note": "外门三城之一，规模最小，附近有云泽湖。图中东置和与其他城市的排序均为概排，城湖朝向未知。",
+      "source_refs": [
+        "ch131",
+        "ch184"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "unknown"
+    },
+    {
+      "name": "乙十卫所＊",
+      "x": 730,
+      "y": 1845,
+      "group": "fort",
+      "dx": 0,
+      "dy": -75,
+      "note": "外门卫所。旧家和灵田在天云南麓、云阳灵地最外围；与云山相对朝向未知，庆典处至云山约五十里。不能把南麓概念变成对云山正南的断言。",
+      "source_refs": [
+        "ch1",
+        "ch38",
+        "ch96",
+        "ch101"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "approximate"
+    },
+    {
+      "name": "甲五卫所＊",
+      "x": 1450,
+      "y": 1850,
+      "group": "fort",
+      "dx": 0,
+      "dy": -75,
+      "note": "外门畜牧区，有屠宰场。其对内门、云山和乙十的方位距离未知，图面位置纯属概排。 本轮补核第101章：甲五距乙十旧家一百多里，行程比去云山更远；方位仍未详。",
+      "source_refs": [
+        "ch101"
+      ],
+      "bearing_certainty": "unknown",
+      "distance_certainty": "unknown"
+    }
+  ],
+  "labels": [
+    {
+      "text": "内 山 门",
+      "x": 1200,
+      "y": 240,
+      "size": 38,
+      "group": "region"
+    },
+    {
+      "text": "天 云 山 脉",
+      "x": 1010,
+      "y": 850,
+      "size": 37,
+      "group": "region",
+      "source_refs": [
+        "ch124",
+        "ch128"
+      ]
+    },
+    {
+      "text": "上玄峰＊",
+      "x": 635,
+      "y": 400,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "明秀峰＊",
+      "x": 1820,
+      "y": 400,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "孤剑峰＊",
+      "x": 1980,
+      "y": 270,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "长阳峰＊",
+      "x": 885,
+      "y": 640,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "飞羽峰＊",
+      "x": 1575,
+      "y": 680,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "灵远峰＊",
+      "x": 2080,
+      "y": 755,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "青木峰＊",
+      "x": 805,
+      "y": 880,
+      "size": 27,
+      "group": "added",
+      "source_refs": [
+        "ch126"
+      ]
+    },
+    {
+      "text": "落日峰",
+      "x": 565,
+      "y": 927,
+      "size": 28,
+      "group": "added",
+      "source_refs": [
+        "ch153"
+      ]
+    },
+    {
+      "text": "无名溪",
+      "x": 215,
+      "y": 980,
+      "size": 22,
+      "group": "annotation",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "text": "无名河",
+      "x": 915,
+      "y": 1005,
+      "size": 21,
+      "group": "annotation",
+      "source_refs": [
+        "ch129"
+      ]
+    },
+    {
+      "text": "灵田 · 果林",
+      "x": 1040,
+      "y": 1125,
+      "size": 22,
+      "group": "annotation",
+      "source_refs": [
+        "ch129",
+        "ch130"
+      ]
+    },
+    {
+      "text": "云阳碑",
+      "x": 920,
+      "y": 1250,
+      "size": 26,
+      "group": "added",
+      "source_refs": [
+        "ch124",
+        "ch127"
+      ]
+    },
+    {
+      "text": "外 山 门",
+      "x": 1220,
+      "y": 1415,
+      "size": 38,
+      "group": "region",
+      "source_refs": [
+        "ch1",
+        "ch20",
+        "ch38"
+      ]
+    },
+    {
+      "text": "外门总堂",
+      "x": 1160,
+      "y": 1660,
+      "size": 23,
+      "group": "annotation",
+      "source_refs": [
+        "ch20"
+      ]
+    },
+    {
+      "text": "云 泽 湖＊",
+      "x": 2225,
+      "y": 1535,
+      "size": 24,
+      "group": "added",
+      "source_refs": [
+        "ch184"
+      ]
+    },
+    {
+      "text": "牧场 · 屠宰场",
+      "x": 1450,
+      "y": 1930,
+      "size": 21,
+      "group": "annotation",
+      "source_refs": [
+        "ch101"
+      ]
+    },
+    {
+      "text": "外 域＊",
+      "x": 380,
+      "y": 1960,
+      "size": 23,
+      "group": "added",
+      "source_refs": [
+        "ch38"
+      ]
+    },
+    {
+      "text": "＊星号地点按已知内外门地域示意，精确峰位、城址与边界未详；山形、岸线及图中间距不作测绘。",
+      "x": 1200,
+      "y": 2032,
+      "size": 19,
+      "group": "annotation"
+    },
+    {
+      "text": "原文行程：云山—落日两三百里；落日—云龙近三百里；庄园—石阶三里；乙十—云山约五十里，旧家—甲五一百余里。",
+      "x": 1200,
+      "y": 2072,
+      "size": 18,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [
+    {
+      "name": "庄园北汇无名溪",
+      "points": [
+        [
+          300,
+          1190
+        ],
+        [
+          322,
+          1140
+        ],
+        [
+          350,
+          1090
+        ],
+        [
+          342,
+          1040
+        ],
+        [
+          367,
+          990
+        ],
+        [
+          365,
+          945
+        ]
+      ],
+      "width": 3.8,
+      "note": "从山中流经庄园向北汇河；曲线概绘，流量未知。未认定与落日山下向东的溪河相接。",
+      "geometry_status": "bearing_local_known_course_interpreted",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "name": "庄园溪汇入之无名河局部",
+      "points": [
+        [
+          150,
+          925
+        ],
+        [
+          240,
+          938
+        ],
+        [
+          302,
+          927
+        ],
+        [
+          365,
+          945
+        ],
+        [
+          425,
+          930
+        ]
+      ],
+      "width": 4.9,
+      "note": "北汇关系已知；本河其余流向与上下游未知。",
+      "geometry_status": "bearing_unknown_course_interpreted",
+      "source_refs": [
+        "ch131"
+      ]
+    },
+    {
+      "name": "落日山下向东溪河",
+      "points": [
+        [
+          680,
+          965
+        ],
+        [
+          755,
+          952
+        ],
+        [
+          830,
+          972
+        ],
+        [
+          900,
+          958
+        ],
+        [
+          980,
+          972
+        ],
+        [
+          1060,
+          952
+        ]
+      ],
+      "width": 4.5,
+      "note": "129章从上山石阶回望山下原野所见东流溪河。与131章庄园溪是否同一水系未证；图中单独显示，局部摆放与曲线概绘。",
+      "geometry_status": "east_flow_known_local_position_interpreted",
+      "source_refs": [
+        "ch129"
+      ]
+    }
+  ],
+  "roads": [
+    {
+      "name": "入口至落日的西北行程局部",
+      "points": [
+        [
+          910,
+          1225
+        ],
+        [
+          855,
+          1200
+        ],
+        [
+          790,
+          1175
+        ],
+        [
+          735,
+          1140
+        ],
+        [
+          665,
+          1120
+        ],
+        [
+          605,
+          1095
+        ]
+      ],
+      "width": 1.6,
+      "group": "trails",
+      "note": "入口到落日朝西北的叙事行程已知，路径形状及沿线里程未知；不把线条当精确道路测绘。",
+      "geometry_status": "northwest_travel_known_route_interpreted",
+      "source_refs": [
+        "ch128"
+      ]
+    }
+  ],
+  "regions": [
+    {
+      "id": "inner-region-concept",
+      "name": "内山门核心地域（轮廓概绘）",
+      "color": "#b6bea0",
+      "points": [
+        [
+          250,
+          430
+        ],
+        [
+          430,
+          270
+        ],
+        [
+          800,
+          210
+        ],
+        [
+          1260,
+          220
+        ],
+        [
+          1760,
+          230
+        ],
+        [
+          2120,
+          430
+        ],
+        [
+          2210,
+          720
+        ],
+        [
+          2150,
+          1030
+        ],
+        [
+          1920,
+          1185
+        ],
+        [
+          1650,
+          1240
+        ],
+        [
+          1360,
+          1210
+        ],
+        [
+          1160,
+          1240
+        ],
+        [
+          965,
+          1235
+        ],
+        [
+          850,
+          1230
+        ],
+        [
+          700,
+          1190
+        ],
+        [
+          460,
+          1220
+        ],
+        [
+          265,
+          1195
+        ],
+        [
+          180,
+          1030
+        ],
+        [
+          210,
+          800
+        ]
+      ],
+      "geometry_status": "cartographic_region_only_not_surveyed_boundary",
+      "note": "可供原生zone软着色的示意多边形：仅使九峰与云龙共同处于内门地域可见，不代表实测法阵边界。石碑入口位于东南缘；庄园留内门西南峰脚。请低饱和、低透明、无硬边框。",
+      "source_refs": [
+        "ch38",
+        "ch124",
+        "ch126",
+        "ch128",
+        "ch129",
+        "ch130",
+        "ch131",
+        "ch153"
+      ]
+    }
+  ],
+  "source_evidence": [
+    "r5-yunyang-spatial-audit.txt",
+    "r6-yunyang-location-review.txt"
+  ],
+  "source_notes": {
+    "confirmed": [
+      "内门为核心地域，入口为单独出入口点",
+      "九峰与云龙共同属于内门",
+      "落日在内门地域西南；入口到落日朝西北",
+      "庄园峰西脚、距上山阶梯三里",
+      "云龙无墙、东西北三面环山",
+      "云山为外门城且北靠山",
+      "庄园溪北汇；落日山下另有东流溪河"
+    ],
+    "unknown": [
+      "核心地域完整边界",
+      "八峰的实际方位与相互距离",
+      "云龙相对落日方位",
+      "三外城横向次序和两两距离",
+      "卫所的横向方位",
+      "云湖与云泽湖具体朝向",
+      "庄园溪与峰下东流溪河是否连通",
+      "外域边界的完整朝向与形状"
+    ],
+    "cartographic_judgment": [
+      "区域轮廓与山脊为概绘",
+      "八峰置于同一核心山区但不表示峰序",
+      "外门以有据南麓为主画面，不断言所有外门地点都在同一南麓平面",
+      "入口标签与短路径表点；不用殿宇图符等同整个内门",
+      "外域在页边以文字提示关系，不绘虚构闭合边界"
+    ]
+  },
+  "sources": [
+    {
+      "title": "原文章页 ch1",
+      "url": "https://www.hongxiu.com/chapter/23019664901398604/61792952527588363"
+    },
+    {
+      "title": "原文章页 ch20",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/20.html"
+    },
+    {
+      "title": "原文章页 ch38",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/38.html"
+    },
+    {
+      "title": "原文章页 ch58",
+      "url": "https://www.hongxiu.com/chapter/23019664901398604/62457668106773389"
+    },
+    {
+      "title": "原文章页 ch96",
+      "url": "https://www.hongxiu.com/chapter/23019664901398604/62898358326459541"
+    },
+    {
+      "title": "原文章页 ch101",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/101.html"
+    },
+    {
+      "title": "原文章页 ch124",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/124.html"
+    },
+    {
+      "title": "原文章页 ch126",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/126.html"
+    },
+    {
+      "title": "原文章页 ch127",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/127.html"
+    },
+    {
+      "title": "原文章页 ch128",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/128.html"
+    },
+    {
+      "title": "原文章页 ch129",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/129.html"
+    },
+    {
+      "title": "原文章页 ch130",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/130.html"
+    },
+    {
+      "title": "原文章页 ch131",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/131.html"
+    },
+    {
+      "title": "原文章页 ch153",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/153.html"
+    },
+    {
+      "title": "原文章页 ch157",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/157.html"
+    },
+    {
+      "title": "原文章页 ch184",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/184.html"
+    }
+  ],
+  "symbolNote": "",
+  "world": "山海界"
+}

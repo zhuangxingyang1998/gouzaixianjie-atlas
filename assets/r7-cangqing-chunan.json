@@ -1,0 +1,280 @@
+{
+  "id": "r7-cangqing-chunan",
+  "title": "苍青界 · 东卢府春安江",
+  "subtitle": "广平与临江沿岸",
+  "width": 2000,
+  "height": 1600,
+  "northKnown": false,
+  "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 本幅依据上下游关系编绘；不知春安江总体方向，故不设北标。两城岸别、间距及河道曲线均未核定。临江依山、广平三面平原有据，不添加无方向的靠山村、虎头山及安阳行程。",
+  "symbolSizes": {
+    "city": 185
+  },
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          1220,
+          1040
+        ],
+        [
+          1320,
+          1090
+        ],
+        [
+          1410,
+          1180
+        ],
+        [
+          1540,
+          1200
+        ],
+        [
+          1690,
+          1155
+        ]
+      ],
+      "height": 59,
+      "width": 110,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1200,
+          1150
+        ],
+        [
+          1330,
+          1215
+        ],
+        [
+          1470,
+          1300
+        ],
+        [
+          1640,
+          1275
+        ],
+        [
+          1770,
+          1225
+        ]
+      ],
+      "height": 49,
+      "width": 95,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 390,
+      "y": 415,
+      "rx": 210,
+      "ry": 115,
+      "density": 0.25,
+      "type": "grass"
+    },
+    {
+      "x": 620,
+      "y": 700,
+      "rx": 330,
+      "ry": 125,
+      "density": 0.3,
+      "type": "grass"
+    },
+    {
+      "x": 820,
+      "y": 425,
+      "rx": 160,
+      "ry": 120,
+      "density": 0.24,
+      "type": "grass"
+    },
+    {
+      "x": 1400,
+      "y": 1140,
+      "rx": 190,
+      "ry": 135,
+      "density": 0.6,
+      "type": "conifer"
+    },
+    {
+      "x": 1660,
+      "y": 1210,
+      "rx": 140,
+      "ry": 115,
+      "density": 0.51,
+      "type": "conifer"
+    },
+    {
+      "x": 1275,
+      "y": 1250,
+      "rx": 130,
+      "ry": 95,
+      "density": 0.5,
+      "type": "deciduous"
+    }
+  ],
+  "burgs": [
+    {
+      "name": "广平县城",
+      "x": 590,
+      "y": 440,
+      "group": "city",
+      "dx": 0,
+      "dy": -115,
+      "note": "东卢府上县；建于春安江旁，位在临江上游，除临江一面外三面平原农田。第950章。"
+    },
+    {
+      "name": "临江县城",
+      "x": 1370,
+      "y": 980,
+      "group": "city",
+      "dx": -10,
+      "dy": -123,
+      "note": "东卢府上县，依山傍春安江；有江岸码头和渡运，确切岸别不明。第912、913、923章。"
+    }
+  ],
+  "labels": [
+    {
+      "text": "上游",
+      "x": 205,
+      "y": 325,
+      "size": 25,
+      "group": "annotation"
+    },
+    {
+      "text": "下游",
+      "x": 1800,
+      "y": 1330,
+      "size": 25,
+      "group": "annotation"
+    },
+    {
+      "text": "春 安 江",
+      "x": 1015,
+      "y": 770,
+      "size": 33,
+      "group": "added"
+    },
+    {
+      "text": "田 畴",
+      "x": 585,
+      "y": 785,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "山 林",
+      "x": 1630,
+      "y": 1100,
+      "size": 31,
+      "group": "region"
+    },
+    {
+      "text": "渡口＊",
+      "x": 1210,
+      "y": 820,
+      "size": 23,
+      "group": "added"
+    },
+    {
+      "text": "＊临江依山、广平三面为田畴；山林近岸位置为地貌概绘，不由画面推断方位。",
+      "x": 1000,
+      "y": 1537,
+      "size": 18,
+      "group": "annotation"
+    },
+    {
+      "text": "＊无名渡口在临江上游约十里；广平距府城三百七十里，府城方向未详故不入图。",
+      "x": 1000,
+      "y": 1568,
+      "size": 18,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [
+    {
+      "name": "春安江",
+      "points": [
+        [
+          170,
+          350
+        ],
+        [
+          320,
+          415
+        ],
+        [
+          475,
+          490
+        ],
+        [
+          660,
+          550
+        ],
+        [
+          840,
+          655
+        ],
+        [
+          970,
+          715
+        ],
+        [
+          1125,
+          765
+        ],
+        [
+          1230,
+          820
+        ],
+        [
+          1350,
+          870
+        ],
+        [
+          1490,
+          1030
+        ],
+        [
+          1600,
+          1160
+        ],
+        [
+          1815,
+          1300
+        ]
+      ],
+      "width": 3.2,
+      "note": "广平在临江上游，水流方向用上游到下游表达；纸面方向不代表地理南北。第950章。"
+    }
+  ],
+  "roads": [],
+  "lakes": [],
+  "world": "苍青界",
+  "region": "东卢府春安江沿岸",
+  "sources": [
+    {
+      "chapter": 912,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/912.html"
+    },
+    {
+      "chapter": 913,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/913.html"
+    },
+    {
+      "chapter": 923,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/923.html"
+    },
+    {
+      "chapter": 938,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/938.html"
+    },
+    {
+      "chapter": 950,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/950.html"
+    }
+  ]
+}

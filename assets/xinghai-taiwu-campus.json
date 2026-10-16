@@ -1,0 +1,307 @@
+{
+  "id": "xinghai-taiwu-campus",
+  "title": "星海界 · 太武星北陆",
+  "subtitle": "第一军院与环城地域",
+  "world": "星海界",
+  "region": "太武星群／太武星",
+  "width": 2200,
+  "height": 1800,
+  "northKnown": true,
+  "note": "1222章明确太武星群主星为太武星，第一军院位于北半球，一座庞大都市围绕学院建立。图只绘这一局部所属和环绕关系，不虚构整颗星球海岸线或星群坐标。学院占地五万余平方公里、专属区七十万平方公里是原文量级，不转换为本图精确半径。地表大部分陆地原始森林是星球级事实；本幅外缘树林为该自然面貌的概括，不能视为实测校园周界。空港在轨道太空堡垒内，本图没有将其错放在地表。",
+  "symbolIcons": {
+    "monastery": "modern-campus",
+    "city": "modern-campus",
+    "capital": "western-city"
+  },
+  "symbolSizes": {
+    "monastery": 240,
+    "city": 165
+  },
+  "symbolNote": "",
+  "terrainRanges": [],
+  "forestRegions": [
+    {
+      "x": 380,
+      "y": 360,
+      "rx": 230,
+      "ry": 115,
+      "density": 0.45,
+      "type": "deciduous"
+    },
+    {
+      "x": 800,
+      "y": 300,
+      "rx": 240,
+      "ry": 95,
+      "density": 0.42,
+      "type": "conifer"
+    },
+    {
+      "x": 1390,
+      "y": 300,
+      "rx": 210,
+      "ry": 95,
+      "density": 0.43,
+      "type": "deciduous"
+    },
+    {
+      "x": 1790,
+      "y": 455,
+      "rx": 210,
+      "ry": 190,
+      "density": 0.45,
+      "type": "deciduous"
+    },
+    {
+      "x": 1900,
+      "y": 900,
+      "rx": 120,
+      "ry": 250,
+      "density": 0.45,
+      "type": "deciduous"
+    },
+    {
+      "x": 1770,
+      "y": 1350,
+      "rx": 220,
+      "ry": 170,
+      "density": 0.45,
+      "type": "conifer"
+    },
+    {
+      "x": 1260,
+      "y": 1510,
+      "rx": 260,
+      "ry": 100,
+      "density": 0.4,
+      "type": "deciduous"
+    },
+    {
+      "x": 720,
+      "y": 1490,
+      "rx": 220,
+      "ry": 115,
+      "density": 0.45,
+      "type": "deciduous"
+    },
+    {
+      "x": 360,
+      "y": 1300,
+      "rx": 170,
+      "ry": 190,
+      "density": 0.44,
+      "type": "deciduous"
+    },
+    {
+      "x": 250,
+      "y": 800,
+      "rx": 120,
+      "ry": 230,
+      "density": 0.44,
+      "type": "conifer"
+    },
+    {
+      "x": 550,
+      "y": 500,
+      "rx": 180,
+      "ry": 100,
+      "density": 0.25,
+      "type": "grass"
+    },
+    {
+      "x": 1610,
+      "y": 1270,
+      "rx": 190,
+      "ry": 110,
+      "density": 0.27,
+      "type": "grass"
+    }
+  ],
+  "regions": [
+    {
+      "name": "环学院都市",
+      "points": [
+        [
+          530,
+          600
+        ],
+        [
+          740,
+          465
+        ],
+        [
+          1110,
+          440
+        ],
+        [
+          1480,
+          490
+        ],
+        [
+          1690,
+          680
+        ],
+        [
+          1730,
+          1050
+        ],
+        [
+          1550,
+          1300
+        ],
+        [
+          1210,
+          1400
+        ],
+        [
+          855,
+          1370
+        ],
+        [
+          555,
+          1195
+        ],
+        [
+          435,
+          875
+        ]
+      ],
+      "color": "#9c8268",
+      "note": "都市围绕学院有据；本区域轮廓是制图概括，不是实际城市边界。"
+    },
+    {
+      "name": "第一军院",
+      "points": [
+        [
+          760,
+          710
+        ],
+        [
+          960,
+          635
+        ],
+        [
+          1250,
+          670
+        ],
+        [
+          1435,
+          835
+        ],
+        [
+          1410,
+          1050
+        ],
+        [
+          1240,
+          1180
+        ],
+        [
+          980,
+          1190
+        ],
+        [
+          780,
+          1040
+        ],
+        [
+          700,
+          850
+        ]
+      ],
+      "color": "#6e8e97",
+      "note": "校园居于环城之内的所属关系有据；实际校园形状、设施分区未知。"
+    }
+  ],
+  "lakes": [],
+  "burgs": [
+    {
+      "name": "帝国第一高等军事学院＊",
+      "x": 1100,
+      "y": 875,
+      "group": "monastery",
+      "dx": 0,
+      "dy": -145,
+      "note": "太武星北半球；周围有为其建立的庞大都市。学院具体形状与建筑坐标未知。",
+      "source_refs": [
+        "q1222"
+      ]
+    },
+    {
+      "name": "星光大厦＊",
+      "x": 1245,
+      "y": 1090,
+      "group": "city",
+      "dx": 0,
+      "dy": -85,
+      "note": "学院内最高楼，正文有据；相对校园中心的方向未知，此点仅表达校内所属。",
+      "source_refs": [
+        "q1249"
+      ]
+    }
+  ],
+  "labels": [
+    {
+      "text": "太武星 · 北半球",
+      "x": 1100,
+      "y": 240,
+      "size": 36,
+      "group": "region"
+    },
+    {
+      "text": "环 学 院 都 市＊",
+      "x": 1090,
+      "y": 545,
+      "size": 40,
+      "group": "region"
+    },
+    {
+      "text": "原 始 森 林＊",
+      "x": 420,
+      "y": 1165,
+      "size": 32,
+      "group": "region"
+    },
+    {
+      "text": "原 始 森 林＊",
+      "x": 1700,
+      "y": 1300,
+      "size": 32,
+      "group": "region"
+    },
+    {
+      "text": "＊ 仅保留学院在北半球、都市环绕学院及大厦在校内；具体边界、设施方位和距离未知。",
+      "x": 1100,
+      "y": 1738,
+      "size": 21,
+      "group": "annotation"
+    },
+    {
+      "text": "＊ 林带概括太武陆地的原始森林面貌；不表示实测校园外缘。轨道空港另属太空尺度。",
+      "x": 1100,
+      "y": 1772,
+      "size": 21,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [],
+  "roads": [],
+  "sources": [
+    {
+      "title": "原文章页 1193",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1193.html"
+    },
+    {
+      "title": "原文章页 1222",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1222.html"
+    },
+    {
+      "title": "原文章页 1249",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1249.html"
+    },
+    {
+      "title": "原文章页 1255",
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1255.html"
+    }
+  ]
+}

@@ -1,0 +1,420 @@
+{
+  "id": "r7-cangqing-hanhai",
+  "title": "苍青界 · 瀚海西境",
+  "subtitle": "瀚海城关 · 百里峡 · 东望城",
+  "width": 2000,
+  "height": 1600,
+  "northKnown": true,
+  "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 瀚海关为瀚海城的一部分，本图将城关图符适当拉开以辨认。东望城与瀚海关三十里有据，百里峡之名不作百里长度。",
+  "symbolSizes": {
+    "city": 165,
+    "fort": 130,
+    "monastery": 130
+  },
+  "symbolIcons": {
+    "monastery": "sect"
+  },
+  "symbolNote": "",
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          540,
+          300
+        ],
+        [
+          660,
+          350
+        ],
+        [
+          770,
+          425
+        ],
+        [
+          875,
+          515
+        ],
+        [
+          955,
+          625
+        ]
+      ],
+      "height": 68,
+      "width": 140,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          430,
+          395
+        ],
+        [
+          540,
+          460
+        ],
+        [
+          660,
+          530
+        ],
+        [
+          780,
+          585
+        ],
+        [
+          875,
+          650
+        ]
+      ],
+      "height": 57,
+      "width": 110,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          450,
+          1120
+        ],
+        [
+          575,
+          1060
+        ],
+        [
+          700,
+          1015
+        ],
+        [
+          825,
+          935
+        ],
+        [
+          950,
+          845
+        ]
+      ],
+      "height": 69,
+      "width": 145,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          430,
+          1220
+        ],
+        [
+          600,
+          1170
+        ],
+        [
+          745,
+          1100
+        ],
+        [
+          865,
+          1030
+        ],
+        [
+          970,
+          940
+        ]
+      ],
+      "height": 53,
+      "width": 105,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          170,
+          330
+        ],
+        [
+          280,
+          375
+        ],
+        [
+          370,
+          355
+        ]
+      ],
+      "height": 40,
+      "width": 80,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          170,
+          1160
+        ],
+        [
+          285,
+          1210
+        ],
+        [
+          365,
+          1150
+        ]
+      ],
+      "height": 36,
+      "width": 75,
+      "type": "hill"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 1160,
+      "y": 690,
+      "rx": 175,
+      "ry": 105,
+      "density": 0.32,
+      "type": "grass"
+    },
+    {
+      "x": 1365,
+      "y": 840,
+      "rx": 200,
+      "ry": 135,
+      "density": 0.41,
+      "type": "grass"
+    },
+    {
+      "x": 1500,
+      "y": 1090,
+      "rx": 145,
+      "ry": 100,
+      "density": 0.4,
+      "type": "grass"
+    },
+    {
+      "x": 1815,
+      "y": 760,
+      "rx": 110,
+      "ry": 190,
+      "density": 0.17,
+      "type": "grass"
+    },
+    {
+      "x": 1380,
+      "y": 600,
+      "rx": 150,
+      "ry": 55,
+      "density": 0.22,
+      "type": "grass"
+    }
+  ],
+  "burgs": [
+    {
+      "name": "东望城",
+      "x": 430,
+      "y": 765,
+      "group": "city",
+      "dx": 0,
+      "dy": -103,
+      "note": "大燕最东面的城池，距离瀚海关三十里。第1025章。"
+    },
+    {
+      "name": "瀚海关",
+      "x": 970,
+      "y": 750,
+      "group": "fort",
+      "dx": 0,
+      "dy": -91,
+      "note": "瀚海城的重要组成部分，峡谷出口的雄关，雪山上另筑长城。第1008章。"
+    },
+    {
+      "name": "瀚海城",
+      "x": 1235,
+      "y": 770,
+      "group": "city",
+      "dx": 0,
+      "dy": -110,
+      "note": "大梁西部边郡郡城，坐落雪山脚下绿洲；宫城中央明瑜宫，不另置一座虚构的外城。第1001、1008章。"
+    },
+    {
+      "name": "瀚海道宫＊",
+      "x": 1395,
+      "y": 1085,
+      "group": "monastery",
+      "dx": 0,
+      "dy": 92,
+      "note": "瀚海郡城近郊的大型道宫；按城郊范围约位，具体朝向未详。第1022、1024章。"
+    }
+  ],
+  "labels": [
+    {
+      "text": "大 燕",
+      "x": 250,
+      "y": 530,
+      "size": 39,
+      "group": "region"
+    },
+    {
+      "text": "百里峡＊",
+      "x": 680,
+      "y": 785,
+      "size": 30,
+      "group": "added"
+    },
+    {
+      "text": "三十里",
+      "x": 680,
+      "y": 690,
+      "size": 24,
+      "group": "annotation"
+    },
+    {
+      "text": "雪 山",
+      "x": 650,
+      "y": 445,
+      "size": 34,
+      "group": "region"
+    },
+    {
+      "text": "雪山长城＊",
+      "x": 850,
+      "y": 515,
+      "size": 24,
+      "group": "added"
+    },
+    {
+      "text": "瀚 海 郡",
+      "x": 1510,
+      "y": 365,
+      "size": 39,
+      "group": "region"
+    },
+    {
+      "text": "戈 壁",
+      "x": 1640,
+      "y": 575,
+      "size": 34,
+      "group": "region"
+    },
+    {
+      "text": "绿洲田畴",
+      "x": 1440,
+      "y": 870,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "东接西海郡",
+      "x": 1735,
+      "y": 845,
+      "size": 26,
+      "group": "added"
+    },
+    {
+      "text": "＊瀚海关、城同属一套城关；道宫仅按城郊范围约位，真实朝向及城内布局未详。",
+      "x": 1000,
+      "y": 1537,
+      "size": 18,
+      "group": "annotation"
+    },
+    {
+      "text": "＊百里峡的“百里”沿用地名，不当作测得长度；长城沿雪山的具体走向未详。",
+      "x": 1000,
+      "y": 1568,
+      "size": 18,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [],
+  "lakes": [],
+  "roads": [
+    {
+      "name": "通燕道路",
+      "points": [
+        [
+          150,
+          800
+        ],
+        [
+          285,
+          785
+        ],
+        [
+          430,
+          765
+        ],
+        [
+          570,
+          780
+        ],
+        [
+          700,
+          800
+        ],
+        [
+          825,
+          785
+        ],
+        [
+          970,
+          750
+        ],
+        [
+          1080,
+          750
+        ],
+        [
+          1235,
+          770
+        ],
+        [
+          1400,
+          795
+        ],
+        [
+          1595,
+          780
+        ],
+        [
+          1850,
+          800
+        ]
+      ],
+      "group": "roads",
+      "note": "西出瀚海关进入大燕，东向接西海郡。第1001、1017、1025章。"
+    }
+  ],
+  "world": "苍青界",
+  "region": "大梁西部瀚海郡与大燕东部",
+  "sources": [
+    {
+      "chapter": 1001,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1001.html"
+    },
+    {
+      "chapter": 1003,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1003.html"
+    },
+    {
+      "chapter": 1008,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1008.html"
+    },
+    {
+      "chapter": 1014,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1014.html"
+    },
+    {
+      "chapter": 1017,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1017.html"
+    },
+    {
+      "chapter": 1022,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1022.html"
+    },
+    {
+      "chapter": 1024,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1024.html"
+    },
+    {
+      "chapter": 1025,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1025.html"
+    }
+  ]
+}

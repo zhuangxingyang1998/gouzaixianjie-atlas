@@ -1,0 +1,535 @@
+{
+  "id": "daqian-south",
+  "title": "南邵与落雷峰",
+  "subtitle": "山海界 · 大乾",
+  "note": "第201章南邵北靠山，东、西、南为村镇田野，清河绕城；第207章落雷峰在城西南百里。第196章荒村位于广安与南邵郡界附近，仅保留粗区域。",
+  "width": 1600,
+  "height": 1200,
+  "northKnown": true,
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          166.4,
+          323.8
+        ],
+        [
+          339.2,
+          360.6
+        ],
+        [
+          497.6,
+          323.8
+        ],
+        [
+          641.6,
+          415.8
+        ]
+      ],
+      "height": 47,
+      "width": 78,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "points": [
+        [
+          166.4,
+          452.6
+        ],
+        [
+          368,
+          471
+        ],
+        [
+          569.6,
+          434.2
+        ],
+        [
+          684.8,
+          517
+        ]
+      ],
+      "height": 43,
+      "width": 74,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "points": [
+        [
+          1030.4,
+          305.4
+        ],
+        [
+          1232,
+          342.2
+        ],
+        [
+          1433.6,
+          305.4
+        ]
+      ],
+      "height": 50,
+      "width": 85,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "points": [
+        [
+          1016,
+          461.8
+        ],
+        [
+          1188.8,
+          434.2
+        ],
+        [
+          1390.4,
+          498.6
+        ]
+      ],
+      "height": 44,
+      "width": 78,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "points": [
+        [
+          483.2,
+          627.4
+        ],
+        [
+          641.6,
+          655
+        ],
+        [
+          713.6,
+          691.8
+        ]
+      ],
+      "height": 35,
+      "width": 64,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch201"
+      ]
+    },
+    {
+      "points": [
+        [
+          1016,
+          645.8
+        ],
+        [
+          1174.4,
+          664.2
+        ],
+        [
+          1318.4,
+          636.6
+        ]
+      ],
+      "height": 34,
+      "width": 70,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch201"
+      ]
+    },
+    {
+      "points": [
+        [
+          267.2,
+          958.6
+        ],
+        [
+          411.2,
+          940.2
+        ],
+        [
+          584,
+          986.2
+        ],
+        [
+          713.6,
+          1013.8
+        ]
+      ],
+      "height": 42,
+      "width": 73,
+      "type": "mount",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch207"
+      ]
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 396.8,
+      "y": 526.2,
+      "rx": 273.6,
+      "ry": 119.60000000000001,
+      "density": 0.68,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "x": 1174.4,
+      "y": 544.6,
+      "rx": 259.2,
+      "ry": 101.2,
+      "density": 0.66,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch196"
+      ]
+    },
+    {
+      "x": 612.8,
+      "y": 719.4,
+      "rx": 129.6,
+      "ry": 55.199999999999996,
+      "density": 0.48,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch201"
+      ]
+    },
+    {
+      "x": 440,
+      "y": 1004.6,
+      "rx": 129.6,
+      "ry": 55.199999999999996,
+      "density": 0.42,
+      "type": "deciduous",
+      "geometry_status": "cartographic_interpretation",
+      "source_refs": [
+        "ch207"
+      ]
+    }
+  ],
+  "burgs": [
+    {
+      "name": "南邵城",
+      "x": 987.2,
+      "y": 811.4,
+      "group": "city",
+      "dx": 0,
+      "dy": -72,
+      "note": "南邵郡府城，四方坚城；北靠山，清河绕城。",
+      "source_refs": [
+        "ch201"
+      ],
+      "bearing_certainty": "exact",
+      "distance_certainty": "unknown"
+    },
+    {
+      "name": "荒村 · 皇天庙＊",
+      "x": 814.4,
+      "y": 590.6,
+      "group": "hamlet",
+      "dx": 0,
+      "dy": -62,
+      "note": "荒村在树林边、靠近广安与南邵郡界，小庙在村东南角。",
+      "source_refs": [
+        "ch196"
+      ],
+      "bearing_certainty": "approximate",
+      "distance_certainty": "unknown"
+    }
+  ],
+  "labels": [
+    {
+      "text": "广 安 郡",
+      "xy": [
+        0.25,
+        0.14
+      ],
+      "kind": "region",
+      "source_refs": [
+        "ch196"
+      ],
+      "x": 385,
+      "y": 225,
+      "size": 36,
+      "group": "region"
+    },
+    {
+      "text": "南 邵 郡",
+      "xy": [
+        0.78,
+        0.87
+      ],
+      "kind": "region",
+      "source_refs": [
+        "ch201"
+      ],
+      "x": 1203.2,
+      "y": 995.4,
+      "size": 36,
+      "group": "region"
+    },
+    {
+      "text": "沃野与村镇",
+      "xy": [
+        0.82,
+        0.72
+      ],
+      "kind": "terrain",
+      "source_refs": [
+        "ch201"
+      ],
+      "x": 1250,
+      "y": 1035,
+      "size": 24,
+      "group": "annotation"
+    },
+    {
+      "text": "落雷峰",
+      "xy": [
+        0.35,
+        0.86
+      ],
+      "kind": "terrain",
+      "source_refs": [
+        "ch207"
+      ],
+      "x": 470,
+      "y": 1020,
+      "size": 24,
+      "group": "annotation"
+    },
+    {
+      "text": "往乾京",
+      "xy": [
+        0.55,
+        0.055
+      ],
+      "kind": "annotation",
+      "source_refs": [
+        "ch196"
+      ],
+      "x": 872,
+      "y": 245.6,
+      "size": 24,
+      "group": "annotation"
+    },
+    {
+      "text": "清 河",
+      "x": 1280,
+      "y": 890,
+      "size": 26,
+      "group": "added"
+    },
+    {
+      "text": "西南百里",
+      "x": 744,
+      "y": 981,
+      "size": 19,
+      "group": "annotation"
+    },
+    {
+      "text": "＊荒村按郡界附近约位，清河仅据绕城绘意；山形、河道与图中间距不作测绘。",
+      "x": 800,
+      "y": 1155,
+      "size": 19,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [
+    {
+      "id": "qinghe",
+      "name": "清河",
+      "kind": "river",
+      "points": [
+        [
+          1419.2,
+          737.8
+        ],
+        [
+          1275.2,
+          765.4
+        ],
+        [
+          1174.4,
+          857.4
+        ],
+        [
+          1044.8,
+          894.2
+        ],
+        [
+          872,
+          885
+        ],
+        [
+          771.2,
+          820.6
+        ],
+        [
+          598.4,
+          802.2
+        ]
+      ],
+      "source_refs": [
+        "ch201"
+      ],
+      "fact": "清河绕南邵城而过；流向、源头、河道经过哪侧未交代。",
+      "bearing_certainty": "unknown",
+      "distance_certainty": "unknown",
+      "geometry_status": "cartographic_interpretation",
+      "endpoint_fade": true,
+      "label": "清河（河道未详）",
+      "flow_direction": null,
+      "normalized_points": [
+        [
+          0.93,
+          0.59
+        ],
+        [
+          0.83,
+          0.62
+        ],
+        [
+          0.76,
+          0.72
+        ],
+        [
+          0.67,
+          0.76
+        ],
+        [
+          0.55,
+          0.75
+        ],
+        [
+          0.48,
+          0.68
+        ],
+        [
+          0.36,
+          0.66
+        ]
+      ],
+      "width": 1.5,
+      "note": "清河绕南邵城而过；流向、源头、河道经过哪侧未交代。"
+    }
+  ],
+  "roads": [
+    {
+      "name": "南北驰道与赴任山路",
+      "points": [
+        [
+          872,
+          213.4
+        ],
+        [
+          872,
+          342.2
+        ],
+        [
+          828.8,
+          415.8
+        ],
+        [
+          900.8,
+          480.2
+        ],
+        [
+          814.4,
+          563
+        ],
+        [
+          785.6,
+          636.6
+        ],
+        [
+          843.2,
+          701
+        ],
+        [
+          785.6,
+          747
+        ],
+        [
+          857.6,
+          811.4
+        ],
+        [
+          923.84,
+          811.4
+        ]
+      ],
+      "group": "roads",
+      "note": "乾京向南经广安前往南邵，广安段为崎岖山路；最终从南邵西门入城。 线形为概括编绘。",
+      "source_refs": [
+        "ch196",
+        "ch201"
+      ]
+    }
+  ],
+  "lakes": [],
+  "symbolSizes": {
+    "city": 150,
+    "hamlet": 105
+  },
+  "settlementVignettes": [
+    {
+      "x": 650,
+      "y": 838,
+      "size": 65
+    },
+    {
+      "x": 1265,
+      "y": 835,
+      "size": 64
+    },
+    {
+      "x": 1050,
+      "y": 1025,
+      "size": 65
+    }
+  ],
+  "symbolNote": "",
+  "symbolIcons": {
+    "hamlet": "village-temple"
+  },
+  "sources": [
+    {
+      "chapter": 201,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+    },
+    {
+      "chapter": 207,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/207.html"
+    },
+    {
+      "chapter": 196,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html"
+    }
+  ],
+  "world": "山海界"
+}

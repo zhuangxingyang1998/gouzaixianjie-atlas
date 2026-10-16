@@ -1,0 +1,180 @@
+{
+  "id": "haotian-yongle",
+  "title": "永乐与莽龙山",
+  "world": "昊天界",
+  "region": "永乐地域",
+  "subtitle": "昊天界",
+  "width": 1800,
+  "height": 1300,
+  "northKnown": true,
+  "symbolNote": "",
+  "burgs": [
+    {
+      "name": "永乐仙城",
+      "x": 1290,
+      "y": 910,
+      "group": "capital",
+      "dy": -185,
+      "note": ""
+    }
+  ],
+  "labels": [
+    {
+      "text": "莽 龙 山 脉",
+      "x": 560,
+      "y": 255,
+      "size": 39,
+      "group": "region"
+    },
+    {
+      "text": "平 原",
+      "x": 990,
+      "y": 685,
+      "size": 32,
+      "group": "region"
+    },
+    {
+      "text": "环城卫城＊",
+      "x": 1330,
+      "y": 1150,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "灵田 · 农庄 · 植园",
+      "x": 990,
+      "y": 1005,
+      "size": 25,
+      "group": "added"
+    },
+    {
+      "text": "＊莽龙在永乐西北两万余里；龙龟负城，地面卫城环绕。城与山域非同一比例，具体山形和聚落形态为绘意。",
+      "x": 900,
+      "y": 1240,
+      "size": 20,
+      "group": "annotation"
+    }
+  ],
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          100,
+          320
+        ],
+        [
+          350,
+          300
+        ],
+        [
+          580,
+          365
+        ],
+        [
+          820,
+          310
+        ],
+        [
+          1060,
+          360
+        ]
+      ],
+      "width": 105,
+      "height": 60,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          170,
+          440
+        ],
+        [
+          430,
+          415
+        ],
+        [
+          700,
+          455
+        ]
+      ],
+      "width": 85,
+      "height": 50,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 470,
+      "y": 520,
+      "rx": 330,
+      "ry": 95,
+      "type": "deciduous",
+      "density": 0.45
+    },
+    {
+      "x": 1170,
+      "y": 940,
+      "rx": 410,
+      "ry": 200,
+      "type": "grass",
+      "density": 0.6
+    }
+  ],
+  "rivers": [],
+  "roads": [],
+  "settlementVignettes": [
+    {
+      "x": 1080,
+      "y": 820,
+      "size": 85
+    },
+    {
+      "x": 1130,
+      "y": 1050,
+      "size": 90
+    },
+    {
+      "x": 1440,
+      "y": 1050,
+      "size": 90
+    },
+    {
+      "x": 1520,
+      "y": 900,
+      "size": 85
+    },
+    {
+      "x": 1310,
+      "y": 1100,
+      "size": 85
+    }
+  ],
+  "symbolIcons": {
+    "capital": "turtle-rest-city",
+    "town": "village",
+    "monastery": "sect"
+  },
+  "symbolSizes": {
+    "capital": 300,
+    "city": 140,
+    "town": 110,
+    "village": 95,
+    "monastery": 140
+  },
+  "sources": [
+    {
+      "chapter": 627,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/627.html"
+    },
+    {
+      "chapter": 628,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/628.html"
+    },
+    {
+      "chapter": 700,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/700.html"
+    }
+  ],
+  "note": "原文第627—628章：永乐建在龙龟背上，位于平原，地面卫城环绕、外围有灵田农庄；第700章莽龙山脉在城西北，两万余里，山脉自西向东延展。没有将相对方向未核实的白龙大泽接入本幅。"
+}

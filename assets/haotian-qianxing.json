@@ -1,0 +1,203 @@
+{
+  "id": "haotian-qianxing",
+  "title": "千星仙城与迎仙镇",
+  "world": "昊天界",
+  "region": "千星地域",
+  "subtitle": "昊天界",
+  "width": 1800,
+  "height": 1300,
+  "northKnown": false,
+  "symbolNote": "",
+  "burgs": [
+    {
+      "name": "千星仙城",
+      "x": 1010,
+      "y": 650,
+      "group": "capital",
+      "dy": -205,
+      "note": ""
+    },
+    {
+      "name": "迎仙镇",
+      "x": 870,
+      "y": 770,
+      "group": "town",
+      "dy": -90,
+      "note": "",
+      "dx": -90
+    }
+  ],
+  "labels": [
+    {
+      "text": "西 ←",
+      "x": 235,
+      "y": 645,
+      "size": 28,
+      "group": "added"
+    },
+    {
+      "text": "无名大江＊",
+      "x": 1230,
+      "y": 800,
+      "size": 30,
+      "group": "added"
+    },
+    {
+      "text": "灵田 · 果园 · 牧场",
+      "x": 630,
+      "y": 1070,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "两岸屋舍 · 码头",
+      "x": 1350,
+      "y": 960,
+      "size": 26,
+      "group": "added"
+    },
+    {
+      "text": "＊迎仙镇在仙城西面驰道终点、龙龟左前足下；大江穿龟腹，两岸有聚落，河流方向与图中间距为绘意。",
+      "x": 900,
+      "y": 1240,
+      "size": 20,
+      "group": "annotation"
+    }
+  ],
+  "terrainRanges": [],
+  "forestRegions": [
+    {
+      "x": 760,
+      "y": 310,
+      "rx": 250,
+      "ry": 100,
+      "type": "grass",
+      "density": 0.45
+    },
+    {
+      "x": 1330,
+      "y": 1030,
+      "rx": 210,
+      "ry": 140,
+      "type": "grass",
+      "density": 0.5
+    },
+    {
+      "x": 1380,
+      "y": 420,
+      "rx": 190,
+      "ry": 110,
+      "type": "grass",
+      "density": 0.4
+    }
+  ],
+  "rivers": [
+    {
+      "name": "无名大江",
+      "width": 11,
+      "points": [
+        [
+          1160,
+          220
+        ],
+        [
+          1090,
+          360
+        ],
+        [
+          1040,
+          540
+        ],
+        [
+          1010,
+          650
+        ],
+        [
+          930,
+          835
+        ],
+        [
+          970,
+          1000
+        ],
+        [
+          1080,
+          1155
+        ]
+      ],
+      "note": "原文只说明江从龟腹下穿过；本图河向与弯曲为绘意。"
+    }
+  ],
+  "roads": [
+    {
+      "name": "西面驰道",
+      "group": "roads",
+      "points": [
+        [
+          100,
+          730
+        ],
+        [
+          440,
+          735
+        ],
+        [
+          870,
+          770
+        ]
+      ],
+      "width": 4
+    }
+  ],
+  "settlementVignettes": [
+    {
+      "x": 750,
+      "y": 350,
+      "size": 85
+    },
+    {
+      "x": 1260,
+      "y": 400,
+      "size": 85
+    },
+    {
+      "x": 1220,
+      "y": 870,
+      "size": 95
+    },
+    {
+      "x": 720,
+      "y": 960,
+      "size": 95
+    },
+    {
+      "x": 1240,
+      "y": 1080,
+      "size": 90
+    },
+    {
+      "x": 820,
+      "y": 1130,
+      "size": 75
+    }
+  ],
+  "symbolIcons": {
+    "capital": "turtle-city",
+    "town": "village",
+    "monastery": "sect"
+  },
+  "symbolSizes": {
+    "capital": 300,
+    "city": 140,
+    "town": 110,
+    "village": 95,
+    "monastery": 140
+  },
+  "sources": [
+    {
+      "chapter": 719,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/719.html"
+    }
+  ],
+  "note": "第719章：千星仙城建在站立龙龟背上，宽江穿过龟腹，两岸为屋舍码头，上下游有田园农庄；迎仙镇在西面驰道终点、左前足下。未把与永乐的万里行程转换成全局方位。"
+}

@@ -1,0 +1,214 @@
+{
+  "id": "haotian-luodu",
+  "title": "洛都仙城",
+  "world": "昊天界",
+  "region": "洛都地域",
+  "subtitle": "昊天界",
+  "width": 1800,
+  "height": 1300,
+  "northKnown": true,
+  "symbolNote": "",
+  "burgs": [
+    {
+      "name": "洛都仙城",
+      "x": 810,
+      "y": 645,
+      "group": "capital",
+      "dy": -155,
+      "note": ""
+    },
+    {
+      "name": "城东仙宅＊",
+      "x": 1290,
+      "y": 685,
+      "group": "village",
+      "dy": -82,
+      "note": ""
+    }
+  ],
+  "labels": [
+    {
+      "text": "群山 · 奇峰",
+      "x": 775,
+      "y": 430,
+      "size": 31,
+      "group": "added"
+    },
+    {
+      "text": "城南灵田与农庄",
+      "x": 920,
+      "y": 1145,
+      "size": 31,
+      "group": "added"
+    },
+    {
+      "text": "＊城建群山之间，南面有田庄；仙宅按城东峰脚约位，溪流与街区形态不作复原。",
+      "x": 900,
+      "y": 1240,
+      "size": 21,
+      "group": "annotation"
+    }
+  ],
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          220,
+          340
+        ],
+        [
+          440,
+          310
+        ],
+        [
+          690,
+          350
+        ],
+        [
+          900,
+          320
+        ],
+        [
+          1130,
+          370
+        ],
+        [
+          1400,
+          350
+        ]
+      ],
+      "width": 90,
+      "height": 55,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          180,
+          570
+        ],
+        [
+          360,
+          515
+        ],
+        [
+          520,
+          575
+        ]
+      ],
+      "width": 70,
+      "height": 45,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1150,
+          540
+        ],
+        [
+          1320,
+          505
+        ],
+        [
+          1480,
+          550
+        ]
+      ],
+      "width": 72,
+      "height": 48,
+      "type": "mount"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 380,
+      "y": 650,
+      "rx": 180,
+      "ry": 115,
+      "type": "deciduous",
+      "density": 0.45
+    },
+    {
+      "x": 1370,
+      "y": 740,
+      "rx": 185,
+      "ry": 125,
+      "type": "deciduous",
+      "density": 0.45
+    },
+    {
+      "x": 890,
+      "y": 1005,
+      "rx": 480,
+      "ry": 140,
+      "type": "grass",
+      "density": 0.6
+    }
+  ],
+  "rivers": [
+    {
+      "name": "仙宅旁溪",
+      "points": [
+        [
+          1350,
+          590
+        ],
+        [
+          1290,
+          690
+        ],
+        [
+          1350,
+          790
+        ],
+        [
+          1470,
+          840
+        ]
+      ],
+      "width": 2
+    }
+  ],
+  "roads": [],
+  "settlementVignettes": [
+    {
+      "x": 520,
+      "y": 960,
+      "size": 80
+    },
+    {
+      "x": 900,
+      "y": 1050,
+      "size": 85
+    },
+    {
+      "x": 1210,
+      "y": 990,
+      "size": 85
+    }
+  ],
+  "symbolIcons": {
+    "capital": "open-city",
+    "town": "village",
+    "monastery": "sect"
+  },
+  "symbolSizes": {
+    "capital": 230,
+    "city": 140,
+    "town": 110,
+    "village": 95,
+    "monastery": 140
+  },
+  "sources": [
+    {
+      "chapter": 1038,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1038.html"
+    },
+    {
+      "chapter": 1039,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1039.html"
+    }
+  ],
+  "note": "第1038章洛都为群山仙城，南面有大批灵田农庄；第1039章所购仙宅位于城东奇峰下，旁有小溪树林。伏龙山虽多次出入，暂未获得相对洛都足够方位，不强接此幅。"
+}

@@ -1,0 +1,867 @@
+{
+  "version": 7,
+  "maps": [
+    {
+      "id": "yunyang-tianyun-regional",
+      "title": "云阳山门",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 6000,
+      "height": 5250,
+      "note": "r5依据重新核读原文：内山门是核心山地区域，不能等同入口建筑。九峰与云龙均属内门；外门为外围农林、三城卫所地域。落日处内门地域西南；石碑入口至落日的行程朝西北。其他峰和城址的横向图面位置为概排，旁注标明。庄园在落日峰西脚，距上山阶梯三里。云山至落日行程两三百里，云龙至落日近三百里，均不是实测直线。轮廓、山脊、水道曲线不作原文地形复原；边界未详，不绘完整实界。",
+      "sources": [
+        {
+          "title": "原文章页 ch1",
+          "url": "https://www.hongxiu.com/chapter/23019664901398604/61792952527588363"
+        },
+        {
+          "title": "原文章页 ch20",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/20.html"
+        },
+        {
+          "title": "原文章页 ch38",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/38.html"
+        },
+        {
+          "title": "原文章页 ch58",
+          "url": "https://www.hongxiu.com/chapter/23019664901398604/62457668106773389"
+        },
+        {
+          "title": "原文章页 ch96",
+          "url": "https://www.hongxiu.com/chapter/23019664901398604/62898358326459541"
+        },
+        {
+          "title": "原文章页 ch101",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/101.html"
+        },
+        {
+          "title": "原文章页 ch124",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/124.html"
+        },
+        {
+          "title": "原文章页 ch126",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/126.html"
+        },
+        {
+          "title": "原文章页 ch127",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/127.html"
+        },
+        {
+          "title": "原文章页 ch128",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/128.html"
+        },
+        {
+          "title": "原文章页 ch129",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/129.html"
+        },
+        {
+          "title": "原文章页 ch130",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/130.html"
+        },
+        {
+          "title": "原文章页 ch131",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/131.html"
+        },
+        {
+          "title": "原文章页 ch153",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/153.html"
+        },
+        {
+          "title": "原文章页 ch157",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/157.html"
+        },
+        {
+          "title": "原文章页 ch184",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/184.html"
+        }
+      ]
+    },
+    {
+      "id": "daqian-extended",
+      "title": "大乾",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 3750,
+      "height": 3325,
+      "note": "大乾国内地域图，保留乾京、广安、南邵、南向官道上的大桐和郡界荒村。补查后从图面删除六个仍缺粗方位的县村，不再设置未定位附列；道路、河道及边界为示意。",
+      "sources": [
+        {
+          "chapter": 192,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/192.html"
+        },
+        {
+          "chapter": 196,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html"
+        },
+        {
+          "chapter": 201,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+        },
+        {
+          "chapter": 215,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/215.html"
+        }
+      ]
+    },
+    {
+      "id": "donghuang-wetland",
+      "title": "东荒大泽",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 3500,
+      "height": 3000,
+      "note": "镇在大乾疆外、靠近东荒大泽有据；镇位于泽哪一岸和穿泽方向未知。本图仅表现泽地地类及入口附近，不把纸面右侧称作东，也不把名称中的东荒用作相对定位。",
+      "sources": [
+        {
+          "title": "原文章页 ch230",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/230.html"
+        },
+        {
+          "title": "原文章页 ch231",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/231.html"
+        },
+        {
+          "title": "原文章页 ch233",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/233.html"
+        },
+        {
+          "title": "原文章页 ch234",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/234.html"
+        }
+      ]
+    },
+    {
+      "id": "tianyun-connected",
+      "title": "山海界 · 天云与大乾",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 7000,
+      "height": 5850,
+      "note": "同一山海界的分幅地图。星号地点依已知粗地域放置，精确位置未知。各图幅的纸面位置不表示彼此东西南北；删除没有可用粗定位的县村和远地名单。",
+      "sources": [
+        {
+          "chapter": 99,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/99.html"
+        },
+        {
+          "chapter": 101,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/101.html"
+        },
+        {
+          "chapter": 128,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/128.html"
+        },
+        {
+          "chapter": 196,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html"
+        },
+        {
+          "chapter": 201,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+        },
+        {
+          "chapter": 230,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/230.html"
+        },
+        {
+          "chapter": 238,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/238.html"
+        },
+        {
+          "chapter": 243,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/243.html"
+        }
+      ]
+    },
+    {
+      "id": "daqian-south",
+      "title": "南邵与落雷峰",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 4000,
+      "height": 3000,
+      "note": "第201章南邵北靠山，东、西、南为村镇田野，清河绕城；第207章落雷峰在城西南百里。第196章荒村位于广安与南邵郡界附近，仅保留粗区域。",
+      "sources": [
+        {
+          "chapter": 201,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+        },
+        {
+          "chapter": 207,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/207.html"
+        },
+        {
+          "chapter": 196,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html"
+        }
+      ]
+    },
+    {
+      "id": "tianyun-regions",
+      "title": "天云山域",
+      "world": "山海界",
+      "area": "天云与大乾",
+      "width": 4500,
+      "height": 2500,
+      "note": "保留第99章归元在云阳北方、第238/239章东梧在天云东麓谷地、第243/265章风雷谷位于原云阳统辖腹地。非九峰内门图。",
+      "sources": [
+        {
+          "chapter": 99,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/99.html"
+        },
+        {
+          "chapter": 238,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/238.html"
+        },
+        {
+          "chapter": 239,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/239.html"
+        },
+        {
+          "chapter": 243,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/243.html"
+        },
+        {
+          "chapter": 265,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/265.html"
+        }
+      ]
+    },
+    {
+      "id": "shanhai-yulong-r7",
+      "title": "东沧洲 · 玉龙山脉与西海五州",
+      "world": "山海界",
+      "area": "东沧洲 · 西海灵域",
+      "width": 5000,
+      "height": 3750,
+      "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+      "sources": [
+        {
+          "chapter": 296,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/296.html"
+        },
+        {
+          "chapter": 306,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/306.html"
+        },
+        {
+          "chapter": 326,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/326.html"
+        },
+        {
+          "chapter": 358,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/358.html"
+        },
+        {
+          "chapter": 375,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/375.html"
+        },
+        {
+          "chapter": 386,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/386.html"
+        },
+        {
+          "chapter": 392,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/392.html"
+        },
+        {
+          "chapter": 412,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/412.html"
+        },
+        {
+          "chapter": 450,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/450.html"
+        }
+      ]
+    },
+    {
+      "id": "xihai-islands-r7",
+      "title": "西海宗 · 群岛与长河岛",
+      "world": "山海界",
+      "area": "西海宗",
+      "width": 5500,
+      "height": 4250,
+      "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+      "sources": [
+        {
+          "chapter": 375,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/375.html"
+        },
+        {
+          "chapter": 376,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/376.html"
+        },
+        {
+          "chapter": 425,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/425.html"
+        },
+        {
+          "chapter": 505,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/505.html"
+        },
+        {
+          "chapter": 555,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/555.html"
+        },
+        {
+          "chapter": 556,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/556.html"
+        }
+      ]
+    },
+    {
+      "id": "xiyu-daying-r7",
+      "title": "西域 · 火焰山与大郢边境",
+      "world": "山海界",
+      "area": "西域",
+      "width": 5500,
+      "height": 4250,
+      "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+      "sources": [
+        {
+          "chapter": 450,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/450.html"
+        },
+        {
+          "chapter": 478,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/478.html"
+        },
+        {
+          "chapter": 559,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/559.html"
+        },
+        {
+          "chapter": 560,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/560.html"
+        },
+        {
+          "chapter": 561,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/561.html"
+        },
+        {
+          "chapter": 562,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/562.html"
+        },
+        {
+          "chapter": 565,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/565.html"
+        },
+        {
+          "chapter": 571,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/571.html"
+        }
+      ]
+    },
+    {
+      "id": "beiwang-taiwu-r7",
+      "title": "北望边境 · 太吾海岸",
+      "world": "山海界",
+      "area": "北望与太吾",
+      "width": 5500,
+      "height": 3875,
+      "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+      "sources": [
+        {
+          "chapter": 412,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/412.html"
+        },
+        {
+          "chapter": 579,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/579.html"
+        },
+        {
+          "chapter": 580,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/580.html"
+        },
+        {
+          "chapter": 596,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/596.html"
+        }
+      ]
+    },
+    {
+      "id": "shanhai-datian-r7",
+      "title": "大田村 · 山脚河田",
+      "world": "山海界",
+      "area": "西海南域",
+      "width": 4500,
+      "height": 3250,
+      "note": "327章大田村在群山脚下、小河田地环绕；村内白墙黛瓦、绿树成荫。357章确认宛城辖属但未获罗盘方向。本图独立，不与莲城或白毛峰接续，不把无名群山认作玉龙。",
+      "sources": [
+        {
+          "chapter": 327,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/327.html"
+        },
+        {
+          "chapter": 357,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/357.html"
+        }
+      ]
+    },
+    {
+      "id": "nanli-qingan-yunmeng",
+      "title": "南理故地 · 清安与云梦",
+      "world": "山海界",
+      "area": "南理国／云梦大泽",
+      "width": 5500,
+      "height": 4750,
+      "note": "凡尘炼心篇发生于山海界南理国，不是另一宇宙。清安在南理西南、长沂府南；云泽更南。图合示稍后兴建的天云城，未绘朝代疆界。云泽府与后文云梦大泽指向同一主要地域，但没有据此宣称两者边界完全重合。三河、天云在云泽／大泽内的东西坐标，清水河河向，以及具体湖泊岸线无据，均以星号脚注说明；未把地理图转成行程图。",
+      "sources": [
+        {
+          "title": "原文章页 1457",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1457.html"
+        },
+        {
+          "title": "原文章页 1460",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1460.html"
+        },
+        {
+          "title": "原文章页 1470",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1470.html"
+        },
+        {
+          "title": "原文章页 1477",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1477.html"
+        },
+        {
+          "title": "原文章页 1492",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1492.html"
+        },
+        {
+          "title": "原文章页 1494",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1494.html"
+        },
+        {
+          "title": "原文章页 1496",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1496.html"
+        },
+        {
+          "title": "原文章页 1504",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1504.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-yongle",
+      "title": "永乐与莽龙山",
+      "world": "昊天界",
+      "area": "永乐地域",
+      "width": 4500,
+      "height": 3250,
+      "note": "原文第627—628章：永乐建在龙龟背上，位于平原，地面卫城环绕、外围有灵田农庄；第700章莽龙山脉在城西北，两万余里，山脉自西向东延展。没有将相对方向未核实的白龙大泽接入本幅。",
+      "sources": [
+        {
+          "chapter": 627,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/627.html"
+        },
+        {
+          "chapter": 628,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/628.html"
+        },
+        {
+          "chapter": 700,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/700.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-qianxing",
+      "title": "千星仙城与迎仙镇",
+      "world": "昊天界",
+      "area": "千星地域",
+      "width": 4500,
+      "height": 3250,
+      "note": "第719章：千星仙城建在站立龙龟背上，宽江穿过龟腹，两岸为屋舍码头，上下游有田园农庄；迎仙镇在西面驰道终点、左前足下。未把与永乐的万里行程转换成全局方位。",
+      "sources": [
+        {
+          "chapter": 719,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/719.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-luodu",
+      "title": "洛都仙城",
+      "world": "昊天界",
+      "area": "洛都地域",
+      "width": 4500,
+      "height": 3250,
+      "note": "第1038章洛都为群山仙城，南面有大批灵田农庄；第1039章所购仙宅位于城东奇峰下，旁有小溪树林。伏龙山虽多次出入，暂未获得相对洛都足够方位，不强接此幅。",
+      "sources": [
+        {
+          "chapter": 1038,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1038.html"
+        },
+        {
+          "chapter": 1039,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1039.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-qingqiu",
+      "title": "青丘谷地",
+      "world": "昊天界",
+      "area": "青丘",
+      "width": 4500,
+      "height": 3250,
+      "note": "第741章青丘为狐族圣地，谷内参天大树、草地、溪涧与百丈瀑布；第742章瀑布边木屋与谷内分散低层木屋。长盛—青丘途中有意识中断，不能由行程序列补出两地空间方位，因此本图独立分幅。",
+      "sources": [
+        {
+          "chapter": 741,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/741.html"
+        },
+        {
+          "chapter": 742,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/742.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-xuanyou-grotto",
+      "title": "玄幽仙府 · 山谷与内府",
+      "world": "昊天界",
+      "area": "玄幽仙府",
+      "width": 6000,
+      "height": 4500,
+      "note": "玄幽仙府是昊天界发现的洞天，琅琊洞天是假称。主图根据1095入局时亲见外府山林、双峰瀑布、溪谷与草原绘制；内府在一座高峰之内，门是山下符文岩壁，木屋在面向岩壁时左侧。洞窟附图依据1097，白驹塔在巨大洞窟中央，1098确认塔坐落水脉。所有地理罗盘方位未详，不设北针；视角左侧不翻译成地理正西。尾声仙府整座被收入万界指环，本图是收起前内部空间，不能继续以固定地表城址理解。未把内府、白驹塔再拆成独立宇宙。",
+      "sources": [
+        {
+          "title": "原文章页 1094",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1094.html"
+        },
+        {
+          "title": "原文章页 1095",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1095.html"
+        },
+        {
+          "title": "原文章页 1097",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1097.html"
+        },
+        {
+          "title": "原文章页 1098",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1098.html"
+        },
+        {
+          "title": "原文章页 1513",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1513.html"
+        },
+        {
+          "title": "尾声（下）",
+          "url": "https://www.xiuluows.cc/xiaoshuo/gouzaixianjiechengdalao/3122467.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-jiuzhou-city",
+      "title": "九州仙城 · 城区局部",
+      "world": "昊天界",
+      "area": "九州仙城",
+      "width": 4000,
+      "height": 2750,
+      "note": "原文1102、1103：九州为三大天级仙城之一，也是九州仙盟所在地。洛都至九州乘传送大阵，方向和距离无据，未强接两城。此图只画传送抵达后所见城区：宏伟殿堂与周围琼楼玉宇、奇峰、瀑布、灵植、山居洞府；附近茶楼有据。各图符的方位、数量、峰形与具体街道不明，因此不画全城疆界、城门或伪造道路。",
+      "sources": [
+        {
+          "title": "原文章页 1102",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1102.html"
+        },
+        {
+          "title": "原文章页 1103",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1103.html"
+        }
+      ]
+    },
+    {
+      "id": "haotian-dikui-frontier",
+      "title": "地魁界关 · 临虚空域",
+      "world": "昊天界",
+      "area": "界外属域 · 地魁界关",
+      "width": 4250,
+      "height": 2875,
+      "note": "原文1349：界关是独立于昊天界之外、接壤虚空的界域；地魁约五千里方圆，一座大型仙城与五座边缘卫城。安沂是其中之一，汪尘洞府位于安沂中心。本图呈现内域与临虚空边缘的地理关系，不封闭绘制无据全域轮廓。主城与安沂实际相对方位、距离不明；未知名的四卫城不伪造地点。右侧附图仅放大安沂中央洞府的包含关系，不表达跨框距离。导航归昊天相关图组，不表示地魁物理上位于昊天大陆。",
+      "sources": [
+        {
+          "title": "原文章页 1349",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1349.html"
+        }
+      ]
+    },
+    {
+      "id": "yinming-tuoyu-r7",
+      "title": "阴冥界 · 卫法城与戊九五拓域",
+      "world": "阴冥界",
+      "area": "卫法城与拓域",
+      "width": 5500,
+      "height": 3875,
+      "note": "星号为原文可定位的粗地域。山形、岸线、未标距离与建筑形象均为编绘；分幅不表示相互方位。",
+      "sources": [
+        {
+          "chapter": 505,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/505.html"
+        },
+        {
+          "chapter": 507,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/507.html"
+        },
+        {
+          "chapter": 510,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/510.html"
+        },
+        {
+          "chapter": 536,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/536.html"
+        }
+      ]
+    },
+    {
+      "id": "r7-wushan-chibi-taiwu",
+      "title": "雾山界 · 赤壁与太武",
+      "world": "雾山界",
+      "area": "赤壁城及太武山城（独立局部）",
+      "width": 6000,
+      "height": 4250,
+      "note": "问界铃所通的铃中世界，原文正式称雾山界，区别于苍青界和星海界太武星。左右为两处独立局部，不表达赤壁与太武的相对方位及距离。两城山体形态、建筑及地下行道图形为编绘。",
+      "sources": [
+        {
+          "chapter": 745,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/745.html"
+        },
+        {
+          "chapter": 755,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/755.html"
+        },
+        {
+          "chapter": 756,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/756.html"
+        },
+        {
+          "chapter": 759,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/759.html"
+        },
+        {
+          "chapter": 762,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/762.html"
+        },
+        {
+          "chapter": 798,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/798.html"
+        },
+        {
+          "chapter": 799,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/799.html"
+        }
+      ]
+    },
+    {
+      "id": "r7-cangqing-realms",
+      "title": "苍青界 · 大梁与邻境",
+      "world": "苍青界",
+      "area": "大梁及大齐、大燕、南蛮邻境",
+      "width": 5000,
+      "height": 4000,
+      "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 本幅以大梁旧称组织地理，不表现各时期政权变化。区域级粗定位不等于州郡疆界。",
+      "sources": [
+        {
+          "chapter": 886,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/886.html"
+        },
+        {
+          "chapter": 964,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/964.html"
+        },
+        {
+          "chapter": 969,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/969.html"
+        },
+        {
+          "chapter": 993,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/993.html"
+        },
+        {
+          "chapter": 994,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/994.html"
+        },
+        {
+          "chapter": 996,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/996.html"
+        },
+        {
+          "chapter": 1001,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1001.html"
+        },
+        {
+          "chapter": 1005,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1005.html"
+        },
+        {
+          "chapter": 1019,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1019.html"
+        },
+        {
+          "chapter": 1022,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1022.html"
+        }
+      ]
+    },
+    {
+      "id": "r7-cangqing-hanhai",
+      "title": "苍青界 · 瀚海西境",
+      "world": "苍青界",
+      "area": "大梁西部瀚海郡与大燕东部",
+      "width": 5000,
+      "height": 4000,
+      "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 瀚海关为瀚海城的一部分，本图将城关图符适当拉开以辨认。东望城与瀚海关三十里有据，百里峡之名不作百里长度。",
+      "sources": [
+        {
+          "chapter": 1001,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1001.html"
+        },
+        {
+          "chapter": 1003,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1003.html"
+        },
+        {
+          "chapter": 1008,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1008.html"
+        },
+        {
+          "chapter": 1014,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1014.html"
+        },
+        {
+          "chapter": 1017,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1017.html"
+        },
+        {
+          "chapter": 1022,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1022.html"
+        },
+        {
+          "chapter": 1024,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1024.html"
+        },
+        {
+          "chapter": 1025,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1025.html"
+        }
+      ]
+    },
+    {
+      "id": "r7-cangqing-chunan",
+      "title": "苍青界 · 东卢府春安江",
+      "world": "苍青界",
+      "area": "东卢府春安江沿岸",
+      "width": 5000,
+      "height": 4000,
+      "note": "依据公开转载正文编绘，非作者官方地图。建筑、山形、间距为识别而夸绘；不画无据的国界与海岸线。 本幅依据上下游关系编绘；不知春安江总体方向，故不设北标。两城岸别、间距及河道曲线均未核定。临江依山、广平三面平原有据，不添加无方向的靠山村、虎头山及安阳行程。",
+      "sources": [
+        {
+          "chapter": 912,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/912.html"
+        },
+        {
+          "chapter": 913,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/913.html"
+        },
+        {
+          "chapter": 923,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/923.html"
+        },
+        {
+          "chapter": 938,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/938.html"
+        },
+        {
+          "chapter": 950,
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/950.html"
+        }
+      ]
+    },
+    {
+      "id": "xinghai-taiwu-campus",
+      "title": "星海界 · 太武星北陆",
+      "world": "星海界",
+      "area": "太武星群／太武星",
+      "width": 5500,
+      "height": 4500,
+      "note": "1222章明确太武星群主星为太武星，第一军院位于北半球，一座庞大都市围绕学院建立。图只绘这一局部所属和环绕关系，不虚构整颗星球海岸线或星群坐标。学院占地五万余平方公里、专属区七十万平方公里是原文量级，不转换为本图精确半径。地表大部分陆地原始森林是星球级事实；本幅外缘树林为该自然面貌的概括，不能视为实测校园周界。空港在轨道太空堡垒内，本图没有将其错放在地表。",
+      "sources": [
+        {
+          "title": "原文章页 1193",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1193.html"
+        },
+        {
+          "title": "原文章页 1222",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1222.html"
+        },
+        {
+          "title": "原文章页 1249",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1249.html"
+        },
+        {
+          "title": "原文章页 1255",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1255.html"
+        }
+      ]
+    },
+    {
+      "id": "xueyue-lande-coast",
+      "title": "血月界 · 兰德海岸",
+      "world": "血月界",
+      "area": "英维亚王国／兰德",
+      "width": 5500,
+      "height": 4500,
+      "note": "兰德的东岸、北面平原与无名江河、西南连续高地，以及别墅在城东南临海崖上均有原文方位依据。正文没有给兰德港湾、海岸、河道或城区的精确轮廓。上城区与下城区的名称不当作北南方位；未按名称虚构城区分界。使用西式城港图符；图符为夸绘，不代表实际占地或街区布局。",
+      "sources": [
+        {
+          "title": "原文章页 1362",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1362.html"
+        },
+        {
+          "title": "原文章页 1368",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1368.html"
+        },
+        {
+          "title": "原文章页 1392",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1392.html"
+        }
+      ]
+    },
+    {
+      "id": "xueyue-selis-estuary",
+      "title": "血月界 · 塞力斯河口",
+      "world": "血月界",
+      "area": "英维亚王国／塞力斯",
+      "width": 5500,
+      "height": 4500,
+      "note": "正文确认塞力斯为英维亚王都，位于芬尼斯河终端及河口冲积平原，船舶由海逆河驶入港口。没有可靠海岸朝向、城市岸别和七区完整分界，故本幅不设北针；河海轮廓及图面方向均为概绘。只把东城区白塔作为城区内已知方位的单点，其他城区不因命名而假定彼此罗盘关系。",
+      "sources": [
+        {
+          "title": "原文章页 1392",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1392.html"
+        },
+        {
+          "title": "原文章页 1398",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1398.html"
+        },
+        {
+          "title": "原文章页 1401",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1401.html"
+        },
+        {
+          "title": "原文章页 1453",
+          "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/1453.html"
+        }
+      ]
+    }
+  ],
+  "worlds": [
+    "山海界",
+    "昊天界",
+    "阴冥界",
+    "雾山界",
+    "苍青界",
+    "星海界",
+    "血月界"
+  ]
+}

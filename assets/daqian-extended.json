@@ -1,0 +1,598 @@
+{
+  "id": "daqian-extended",
+  "title": "大乾",
+  "subtitle": "乾京 · 广安 · 南邵",
+  "note": "大乾国内地域图，保留乾京、广安、南邵、南向官道上的大桐和郡界荒村。补查后从图面删除六个仍缺粗方位的县村，不再设置未定位附列；道路、河道及边界为示意。",
+  "width": 1500,
+  "height": 1330,
+  "northKnown": true,
+  "symbolSizes": {
+    "capital": 165,
+    "city": 138,
+    "town": 104,
+    "village": 82,
+    "monastery": 104,
+    "fort": 92
+  },
+  "terrainRanges": [
+    {
+      "points": [
+        [
+          170,
+          510
+        ],
+        [
+          330,
+          545
+        ],
+        [
+          455,
+          510
+        ],
+        [
+          610,
+          575
+        ],
+        [
+          740,
+          550
+        ]
+      ],
+      "height": 46,
+      "width": 91,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          190,
+          630
+        ],
+        [
+          335,
+          655
+        ],
+        [
+          485,
+          615
+        ],
+        [
+          655,
+          685
+        ],
+        [
+          765,
+          660
+        ]
+      ],
+      "height": 44,
+      "width": 88,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          215,
+          765
+        ],
+        [
+          360,
+          725
+        ],
+        [
+          500,
+          775
+        ],
+        [
+          645,
+          745
+        ],
+        [
+          760,
+          810
+        ]
+      ],
+      "height": 38,
+      "width": 79,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1145,
+          515
+        ],
+        [
+          1265,
+          560
+        ],
+        [
+          1390,
+          530
+        ]
+      ],
+      "height": 43,
+      "width": 87,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1140,
+          640
+        ],
+        [
+          1245,
+          610
+        ],
+        [
+          1375,
+          675
+        ]
+      ],
+      "height": 46,
+      "width": 84,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          1090,
+          790
+        ],
+        [
+          1210,
+          755
+        ],
+        [
+          1355,
+          805
+        ]
+      ],
+      "height": 36,
+      "width": 80,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          535,
+          1025
+        ],
+        [
+          645,
+          1005
+        ],
+        [
+          700,
+          1060
+        ],
+        [
+          780,
+          1085
+        ]
+      ],
+      "height": 48,
+      "width": 83,
+      "type": "mount"
+    },
+    {
+      "points": [
+        [
+          405,
+          1110
+        ],
+        [
+          520,
+          1090
+        ],
+        [
+          620,
+          1155
+        ]
+      ],
+      "height": 32,
+      "width": 68,
+      "type": "hill"
+    }
+  ],
+  "forestRegions": [
+    {
+      "x": 355,
+      "y": 590,
+      "rx": 205,
+      "ry": 80,
+      "density": 0.55,
+      "type": "deciduous"
+    },
+    {
+      "x": 590,
+      "y": 670,
+      "rx": 175,
+      "ry": 70,
+      "density": 0.62,
+      "type": "deciduous"
+    },
+    {
+      "x": 340,
+      "y": 760,
+      "rx": 180,
+      "ry": 65,
+      "density": 0.46,
+      "type": "deciduous"
+    },
+    {
+      "x": 1215,
+      "y": 570,
+      "rx": 175,
+      "ry": 65,
+      "density": 0.56,
+      "type": "deciduous"
+    },
+    {
+      "x": 1270,
+      "y": 710,
+      "rx": 130,
+      "ry": 80,
+      "density": 0.59,
+      "type": "deciduous"
+    },
+    {
+      "x": 725,
+      "y": 800,
+      "rx": 92,
+      "ry": 65,
+      "density": 0.48,
+      "type": "deciduous"
+    },
+    {
+      "x": 575,
+      "y": 1085,
+      "rx": 125,
+      "ry": 90,
+      "density": 0.38,
+      "type": "deciduous"
+    },
+    {
+      "x": 490,
+      "y": 990,
+      "rx": 180,
+      "ry": 66,
+      "density": 0.44,
+      "type": "grass"
+    },
+    {
+      "x": 1255,
+      "y": 930,
+      "rx": 145,
+      "ry": 80,
+      "density": 0.38,
+      "type": "grass"
+    },
+    {
+      "x": 1190,
+      "y": 1120,
+      "rx": 125,
+      "ry": 80,
+      "density": 0.33,
+      "type": "grass"
+    }
+  ],
+  "burgs": [
+    {
+      "name": "乾京",
+      "x": 1015,
+      "y": 400,
+      "group": "capital",
+      "dx": 0,
+      "dy": -104,
+      "note": "大乾帝都；宫城在泊台广场东面，但此总图不指定宫城局部坐标。乾京与南邵间总路程三千七百里。"
+    },
+    {
+      "name": "南邵城",
+      "x": 1010,
+      "y": 945,
+      "group": "city",
+      "dx": 0,
+      "dy": -93,
+      "note": "北靠群山，东、西、南近郊为肥沃平原。四方城郭、西门入城；清河绕城。"
+    },
+    {
+      "name": "荒村 · 皇天庙＊",
+      "x": 875,
+      "y": 750,
+      "group": "monastery",
+      "dx": -150,
+      "dy": 8,
+      "note": "广安—南邵郡界附近的无名荒村，小庙在村东南角。这里只标大致区域；准确距离、郡界位置及所属郡未知。"
+    },
+    {
+      "name": "大桐县城＊",
+      "x": 1075,
+      "y": 1145,
+      "group": "city",
+      "dx": 155,
+      "dy": 3,
+      "note": "离开大桐返回南邵的官道初段向北，当日到南邵。故放在南向道路区域作约位，具体偏角与距离未知。"
+    }
+  ],
+  "settlementVignettes": [
+    {
+      "x": 1280,
+      "y": 1025,
+      "size": 56
+    },
+    {
+      "x": 1130,
+      "y": 1065,
+      "size": 54
+    },
+    {
+      "x": 800,
+      "y": 925,
+      "size": 52
+    },
+    {
+      "x": 925,
+      "y": 1100,
+      "size": 51
+    }
+  ],
+  "labels": [
+    {
+      "text": "大 乾",
+      "x": 500,
+      "y": 410,
+      "size": 48,
+      "group": "region"
+    },
+    {
+      "text": "广 安 郡",
+      "x": 445,
+      "y": 480,
+      "size": 39,
+      "group": "region"
+    },
+    {
+      "text": "南 邵 郡",
+      "x": 390,
+      "y": 910,
+      "size": 36,
+      "group": "region"
+    },
+    {
+      "text": "南北驰道",
+      "x": 1140,
+      "y": 475,
+      "size": 22,
+      "group": "added"
+    },
+    {
+      "text": "山 路",
+      "x": 1015,
+      "y": 645,
+      "size": 24,
+      "group": "added"
+    },
+    {
+      "text": "清 河",
+      "x": 1195,
+      "y": 1000,
+      "size": 27,
+      "group": "added"
+    },
+    {
+      "text": "落雷峰",
+      "x": 630,
+      "y": 1170,
+      "size": 29,
+      "group": "added"
+    },
+    {
+      "text": "距南邵城西南约百里",
+      "x": 675,
+      "y": 1204,
+      "size": 19,
+      "group": "annotation"
+    },
+    {
+      "text": "＊大桐据南向官道、荒村据郡界附近约位；里程非直线距离，河道、边界与建筑为示意。",
+      "x": 750,
+      "y": 1290,
+      "size": 18,
+      "group": "annotation"
+    }
+  ],
+  "rivers": [
+    {
+      "name": "清河",
+      "points": [
+        [
+          1350,
+          880
+        ],
+        [
+          1275,
+          905
+        ],
+        [
+          1190,
+          960
+        ],
+        [
+          1145,
+          1015
+        ],
+        [
+          1040,
+          1040
+        ],
+        [
+          950,
+          1015
+        ],
+        [
+          875,
+          975
+        ],
+        [
+          755,
+          980
+        ]
+      ],
+      "width": 1.7,
+      "note": "南邵城有清河绕城；绘制的河道、哪侧绕城及流向均未知，只是水系关系的概绘。"
+    }
+  ],
+  "roads": [
+    {
+      "name": "南北驰道及广安山路",
+      "points": [
+        [
+          1015,
+          400
+        ],
+        [
+          1005,
+          435
+        ],
+        [
+          980,
+          500
+        ],
+        [
+          995,
+          570
+        ],
+        [
+          960,
+          630
+        ],
+        [
+          975,
+          690
+        ],
+        [
+          875,
+          750
+        ],
+        [
+          855,
+          820
+        ],
+        [
+          890,
+          880
+        ],
+        [
+          925,
+          945
+        ],
+        [
+          1010,
+          945
+        ]
+      ],
+      "group": "roads",
+      "note": "乾京—广安—南邵的总体南北关系明确；广安为山路，具体曲线与节点间距概绘，至南邵从西门入。"
+    },
+    {
+      "name": "南邵—大桐官道",
+      "points": [
+        [
+          1010,
+          945
+        ],
+        [
+          1015,
+          1020
+        ],
+        [
+          1060,
+          1075
+        ],
+        [
+          1075,
+          1145
+        ]
+      ],
+      "group": "roads",
+      "note": "仅以第215章出大桐向北返回南邵的道路关系作概位。"
+    }
+  ],
+  "lakes": [],
+  "_source_refs": {
+    "administration_and_qianjing": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/192.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/193.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/194.html"
+    ],
+    "north_south_road_and_jing_an": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/227.html"
+    ],
+    "nanshao_land_and_river": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+    ],
+    "counties": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/206.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/207.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/212.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/215.html"
+    ],
+    "luolei_and_wujia": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/207.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/208.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/211.html"
+    ],
+    "dengxian_and_marsh": [
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/229.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/230.html",
+      "https://quanben.io/amp/n/gouzaixianjiechengdalao/231.html"
+    ]
+  },
+  "_unlocated_inset": {
+    "bounds": [
+      1400,
+      900,
+      1930,
+      1500
+    ],
+    "north_applies": false,
+    "title": "附列 · 方位未知",
+    "note": "Six named settlements are listed with native symbols for name coverage; the two-column positions must not be read as east-west or north-south placement."
+  },
+  "_cartographic_constraints": [
+    "The map is a physical terrain composition, without story event arrows or chapter progress markers.",
+    "Eastern unknown-place inset is typographic only; its title explicitly disclaims geographic position.",
+    "No political outline or border path is drawn.",
+    "Eastwild Marsh is rendered using native swamp relief without inventing a single closed lake shoreline.",
+    "Anonymous village vignettes express textually attested dense rural settlements around Nanshao, not named or precisely located villages.",
+    "No named river or terrain is added unless sourced; unnamed range shapes are generalized terrain symbols.",
+    "City and temple icons are intentionally enlarged; normalized distances are not a metric scale."
+  ],
+  "symbolNote": "",
+  "source_evidence": [
+    "r5-daqian-spatial-audit.txt",
+    "r6-daqian-location-review.txt"
+  ],
+  "world": "山海界",
+  "sources": [
+    {
+      "chapter": 192,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/192.html"
+    },
+    {
+      "chapter": 196,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/196.html"
+    },
+    {
+      "chapter": 201,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/201.html"
+    },
+    {
+      "chapter": 215,
+      "url": "https://quanben.io/amp/n/gouzaixianjiechengdalao/215.html"
+    }
+  ]
+}
